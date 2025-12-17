@@ -53,7 +53,7 @@ Accurate archery performance relies on consistent timing, alignment, and post-re
 </details>
 
 ## Project Page
-Please see anonymized details about the project [here](https://straight-anon.github.io/STRAIGHT/), including the demonstration video. Please reach out to via email for study data.
+Please see anonymized details about the project [here](https://straight-anon.github.io/STRAIGHT/), including the **demonstration video**. Please reach out to via email for study data.
 
 ## Usage
 
