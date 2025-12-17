@@ -72,34 +72,7 @@
           STRAIGHT
         </h1>
         <div class="flex justify-center gap-8 sm:gap-8 my-2">
-          <div class="flex flex-col items-center sm:items-start">
-            <a
-              class="flex flex-col sm:flex-row items-center"
-              href="404"
-              target="_blank"
-              ><svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                class="lucide lucide-file-text mb-1 sm:mb-0 sm:mr-1.5 h-4 w-4"
-              >
-                <path
-                  d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"
-                ></path>
-                <path d="M14 2v4a2 2 0 0 0 2 2h4"></path>
-                <path d="M10 9H8"></path>
-                <path d="M16 13H8"></path>
-                <path d="M16 17H8"></path>
-              </svg>
-              Paper</a
-            >
-          </div>
+          <!-- paper -->
           <div class="flex flex-col items-center sm:items-start">
             <a
               href="https://youtube.com"
@@ -166,6 +139,29 @@
           <p class="text-base leading-relaxed text-gray-700">
             Accurate archery performance relies on consistent timing, alignment, and post-release follow-through across repeated shots, yet archery athletes often train without continuous feedback because a coach cannot observe every attempt. To address this gap, we introduce <strong>STRAIGHT</strong> (<strong>S</strong>keleton <strong>T</strong>racking for <strong>R</strong>eal-time <strong>A</strong>rchery <strong>I</strong>nsight and <strong>G</strong>uidance through <strong>H</strong>uman-AI <strong>T</strong>raining), a system that turns simple practice clips into suggestions that resemble feedback from an experienced coach. STRAIGHT integrates three components: (1) phase detection that classifies each shot into <em>rest</em>, <em>draw</em> and <em>release</em> supported by vision–language model and pose estimation, (2) a consistency and rule-based analysis module that evaluates each shot against the user’s historical form patterns and identifies deviations from expected form, and (3) a language-model feedback module that generates suggestions in direct response to the detected deviations, using the user’s generated personalized profile and a retrieval-augmented database of professional archery knowledge. Demonstrations with real practice footage show that STRAIGHT reliably identifies and provides professional quality feedback to inconsistencies, instability, and even subtle alignment changes, helping athletes develop more stable and repeatable technique. The full codebase is available on <a href="https://github.com/straight-anon/STRAIGHT">GitHub</a>.
           </p>
+        </div>
+      </section>
+
+      <!-- Demo -->
+      <section class="mb-12 w-full">
+        <div class="mx-auto max-w-3xl">
+          <h2 class="mb-4 text-center text-2xl font-bold">Demonstration</h2>
+
+          <div
+            class="mx-auto mb-6 h-0.5 w-16 bg-gradient-to-r from-gray-300 to-gray-100"
+          ></div>
+
+          <!-- Responsive YouTube video -->
+          <div class="relative w-full overflow-hidden rounded-lg aspect-video">
+            <iframe
+              class="absolute inset-0 h-full w-full"
+              src="https://www.youtube.com/embed/VIDEO_ID"
+              title="STRAIGHT Demonstration"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </div>
         </div>
       </section>
 
@@ -478,29 +474,6 @@
                 </div>
               </div>
             </div>
-          </div>
-        </div>
-      </section>
-
-      <!-- Demo -->
-      <section class="mb-12 w-full">
-        <div class="mx-auto max-w-3xl">
-          <h2 class="mb-4 text-center text-2xl font-bold">Demonstration</h2>
-
-          <div
-            class="mx-auto mb-6 h-0.5 w-16 bg-gradient-to-r from-gray-300 to-gray-100"
-          ></div>
-
-          <!-- Responsive YouTube video -->
-          <div class="relative w-full overflow-hidden rounded-lg aspect-video">
-            <iframe
-              class="absolute inset-0 h-full w-full"
-              src="https://www.youtube.com/embed/VIDEO_ID"
-              title="STRAIGHT Demonstration"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen
-            ></iframe>
           </div>
         </div>
       </section>
