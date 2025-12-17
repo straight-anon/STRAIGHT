@@ -1,0 +1,1 @@
+The student's spine is not straight. In 1–2 sentences, point out this problem why it matters. Then provide up to 3 concise, actionable cues or drills to straighten the spine/alignment. Keep it under 120 words.

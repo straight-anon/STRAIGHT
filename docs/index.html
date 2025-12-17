@@ -1,0 +1,622 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>STRAIGHT</title>
+    <meta name="description" content="STRAIGHT" />
+    <link
+      rel="stylesheet"
+      href="css/d5f0ae5c92edc931.css"
+      data-precedence="next"
+    />
+    <link
+      rel="stylesheet"
+      href="css/17f48c2e1a09e764.css"
+      data-precedence="next"
+    />
+    <link
+      rel="icon"
+      href="images/tpn_logo.png"
+      type="image/x-icon"
+      sizes="256x256"
+    />
+    <style>
+      .accordion-panel {
+        max-height: 0;
+        overflow: hidden;
+        opacity: 0;
+        transform: translateY(-6px);
+        padding-top: 0;
+        padding-bottom: 0;
+        transition: max-height 0.28s ease, opacity 0.24s ease,
+          transform 0.24s ease;
+      }
+
+      .accordion-panel.open {
+        opacity: 1;
+        transform: translateY(0);
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
+      }
+
+      .accordion-icon {
+        transition: opacity 0.18s ease;
+      }
+
+      .accordion-panel.no-border {
+        border: 0 !important;
+        box-shadow: none !important;
+      }
+    </style>
+  </head>
+  <body class="__className_f367f3">
+    <main
+      class="mx-auto flex min-h-screen max-w-6xl flex-col items-center px-4 py-8"
+    >
+      <!-- Hero -->
+      <header class="mb-10 mt-10 flex flex-col items-center gap-4 text-center">
+        <img
+          alt="HLE Logo"
+          loading="lazy"
+          width="95"
+          height="95"
+          decoding="async"
+          data-nimg="1"
+          style="color: transparent"
+          src="images/tpn_logo.png"
+        />
+        <h1
+          class="bg-gradient-to-r from-gray-900 to-gray-600 bg-clip-text text-2xl font-extrabold tracking-tight text-transparent lg:text-4xl"
+        >
+          STRAIGHT
+        </h1>
+        <div class="flex justify-center gap-8 sm:gap-8 my-2">
+          <div class="flex flex-col items-center sm:items-start">
+            <a
+              class="flex flex-col sm:flex-row items-center"
+              href="404"
+              target="_blank"
+              ><svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                class="lucide lucide-file-text mb-1 sm:mb-0 sm:mr-1.5 h-4 w-4"
+              >
+                <path
+                  d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"
+                ></path>
+                <path d="M14 2v4a2 2 0 0 0 2 2h4"></path>
+                <path d="M10 9H8"></path>
+                <path d="M16 13H8"></path>
+                <path d="M16 17H8"></path>
+              </svg>
+              Paper</a
+            >
+          </div>
+          <div class="flex flex-col items-center sm:items-start">
+            <a
+              href="https://youtube.com"
+              target="_blank"
+              class="inline-flex flex-col sm:flex-row items-center text-primary transition duration-300 hover:text-primary/80"
+              ><img
+                src="images/youtube.png"
+                alt="YouTube"
+                class="mb-1 sm:mb-0 sm:mr-1.5 h-4 w-auto"
+              />Demo</a
+            ><span
+              class="text-muted-foreground text-xs font-mono"
+              style="font-size: 0.65rem;"
+              >archery oriented demo</span
+            >
+          </div>
+          <div class="flex flex-col items-center sm:items-start">
+            <a
+              href="https://github.com/straight-anon/STRAIGHT"
+              target="_blank"
+              class="inline-flex flex-col sm:flex-row items-center text-primary transition duration-300 hover:text-primary/80"
+              ><img
+                src="images/github-mark.3b925f14.svg"
+                alt="GitHub"
+                class="mb-1 sm:mb-0 sm:mr-1.5 h-4 w-4"
+              />GitHub</a
+            >
+          </div>
+        </div>
+      </header>
+
+      <!-- Latest News and all the following stuff -->
+
+      <div class="mt-8 w-full">
+        <div class="mx-auto max-w-3xl">
+          <img
+            class="w-full rounded-lg"
+            src="images/straight-teaser.png"
+            alt="Difficulty comparison across benchmarks"
+          />
+        </div>
+      </div>
+
+  
+      <section class="mb-12 w-full">
+        <div class="mx-auto max-w-3xl">
+          <div
+            class="mx-auto mb-6 h-0.5 w-16 bg-gradient-to-r from-gray-300 to-gray-100"
+          ></div>
+          <p class="text-base leading-relaxed text-gray-700">
+            STRAIGHT’s analysis output. Given a single-shot practice clip, STRAIGHT computes quantitative metrics for each aspect of the shot and provides coaching suggestions when inconsistency/instability is detected.
+          </p>
+        </div>
+      </section>
+
+      <br>
+      <!-- Abstract -->
+      <section class="mb-12 w-full">
+        <div class="mx-auto max-w-3xl">
+          <h2 class="mb-4 text-center text-2xl font-bold">Abstract</h2>
+          <div
+            class="mx-auto mb-6 h-0.5 w-16 bg-gradient-to-r from-gray-300 to-gray-100"
+          ></div>
+          <p class="text-base leading-relaxed text-gray-700">
+            Accurate archery performance relies on consistent timing, alignment, and post-release follow-through across repeated shots, yet archery athletes often train without continuous feedback because a coach cannot observe every attempt. To address this gap, we introduce <strong>STRAIGHT</strong> (<strong>S</strong>keleton <strong>T</strong>racking for <strong>R</strong>eal-time <strong>A</strong>rchery <strong>I</strong>nsight and <strong>G</strong>uidance through <strong>H</strong>uman-AI <strong>T</strong>raining), a system that turns simple practice clips into suggestions that resemble feedback from an experienced coach. STRAIGHT integrates three components: (1) phase detection that classifies each shot into <em>rest</em>, <em>draw</em> and <em>release</em> supported by vision–language model and pose estimation, (2) a consistency and rule-based analysis module that evaluates each shot against the user’s historical form patterns and identifies deviations from expected form, and (3) a language-model feedback module that generates suggestions in direct response to the detected deviations, using the user’s generated personalized profile and a retrieval-augmented database of professional archery knowledge. Demonstrations with real practice footage show that STRAIGHT reliably identifies and provides professional quality feedback to inconsistencies, instability, and even subtle alignment changes, helping athletes develop more stable and repeatable technique. The full codebase is available on <a href="https://github.com/straight-anon/STRAIGHT">GitHub</a>.
+          </p>
+        </div>
+      </section>
+
+      <!-- Example -->
+      <section class="mb-12 w-full">
+        <div class="mx-auto max-w-3xl">
+          <h2 class="mb-4 text-center text-2xl font-bold">Example</h2>
+          <div
+            class="mx-auto mb-6 h-0.5 w-16 bg-gradient-to-r from-gray-300 to-gray-100"
+          ></div>
+          <p class="text-base leading-relaxed text-gray-700">
+            A collection of example demonstrations for each measured aspect of archery technique, along with generated corrective suggestions.
+          </p>
+        </div>
+        <div class="mt-8">
+          <div
+            class="mx-auto max-w-7xl rounded-md bg-white p-3 text-sm shadow-sm"
+          >
+            <div class="mb-2 flex items-center justify-between">
+              <h3 id="example-range-label" class="text-base font-medium">
+                Examples 1-2/6
+              </h3>
+              <div class="flex space-x-1">
+                <button
+                  id="example-prev"
+                  class="rounded-full border border-black p-1 hover:bg-gray-100"
+                  aria-label="Previous example"
+                >
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="24"
+                    height="24"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    class="lucide lucide-chevron-left h-4 w-4"
+                  >
+                    <path d="m15 18-6-6 6-6"></path>
+                  </svg>
+                </button>
+                <button
+                  id="example-next"
+                  class="rounded-full border border-black p-1 hover:bg-gray-100"
+                  aria-label="Next example"
+                >
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="24"
+                    height="24"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    class="lucide lucide-chevron-right h-4 w-4"
+                  >
+                    <path d="m9 18 6-6-6-6"></path>
+                  </svg>
+                </button>
+              </div>
+            </div>
+            <div class="flex flex-col gap-2">
+              <div class="grid grid-cols-1 gap-4 md:grid-cols-2">
+                <div
+                  data-example-index="0"
+                  class="flex h-full flex-col space-y-4 rounded-lg border p-4 shadow-sm"
+                >
+                  <div class="flex flex-col">
+                    <div class="mb-2 rounded-md p-2 text-xs text-gray-700">
+                      <div class="flex items-center space-x-1">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="24"
+                          height="24"
+                          viewBox="0 0 24 24"
+                          fill="none"
+                          stroke="currentColor"
+                          stroke-width="2"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                          class="lucide lucide-clock h-3 w-3"
+                        >
+                          <circle cx="12" cy="12" r="10"></circle>
+                          <polyline points="12 6 12 12 16 14"></polyline>
+                        </svg>
+                        <span>Release timing</span>
+                      </div>
+                    </div>
+                    <div class="space-y-2 text-sm leading-relaxed text-gray-800">
+                      <img
+                        src="images/release_timing.JPG"
+                        alt="Release timing visualization"
+                        class="rounded-md border border-gray-200"
+                      />
+                    </div>
+                  </div>
+                  <div class="text-xs text-gray-500">
+                    Note: Release timing is marked as inconsistent when it lies outside one standard deviation of your average.
+                  </div>
+                </div>
+                <div
+                  data-example-index="1"
+                  class="flex h-full flex-col space-y-4 rounded-lg border p-4 shadow-sm"
+                >
+                  <div class="flex flex-col">
+                    <div class="mb-2 rounded-md p-2 text-xs text-gray-700">
+                      <div class="flex items-center space-x-1">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="24"
+                          height="24"
+                          viewBox="0 0 24 24"
+                          fill="none"
+                          stroke="currentColor"
+                          stroke-width="2"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                          class="lucide lucide-hand h-3 w-3"
+                        >
+                          <path d="M8 13V5a2 2 0 0 1 4 0v6"></path>
+                          <path d="M12 11V4a2 2 0 0 1 4 0v7"></path>
+                          <path d="M16 10V6a2 2 0 0 1 4 0v7"></path>
+                          <path d="M6 15V9a2 2 0 0 1 4 0v2"></path>
+                          <path d="M18 19c0 1.66-1.34 3-3 3H9c-2.76 0-5-2.24-5-5v-3"></path>
+                        </svg>
+                        <span>Draw hand follow-through</span>
+                      </div>
+                    </div>
+                    <div class="space-y-2 text-sm leading-relaxed text-gray-800">
+                      <img
+                        src="images/draw_hand_follow_through.JPG"
+                        alt="Draw hand follow-through visualization"
+                        class="rounded-md border border-gray-200"
+                      />
+                    </div>
+                  </div>
+                  <div class="text-xs text-gray-500">
+                    Note: For demonstration, we intentionally performed a stale release (i.e., the drawing wrist does not slide along the neck to the back of the head).
+                  </div>
+                </div>
+                <div
+                  data-example-index="2"
+                  class="flex h-full flex-col space-y-4 rounded-lg border p-4 shadow-sm"
+                  style="display: none"
+                >
+                  <div class="flex flex-col">
+                    <div
+                      class="mb-2 rounded-md border-[#10B981]/20 bg-[#10B981]/10 p-2 text-xs text-[#047857]"
+                    >
+                      <div class="flex items-center space-x-1">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="24"
+                          height="24"
+                          viewBox="0 0 24 24"
+                          fill="none"
+                          stroke="currentColor"
+                          stroke-width="2"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                          class="h-3 w-3"
+                        >
+                          <line x1="12" y1="3" x2="12" y2="21"></line>
+                          <circle cx="12" cy="6" r="1.5"></circle>
+                          <circle cx="12" cy="12" r="1.5"></circle>
+                          <circle cx="12" cy="18" r="1.5"></circle>
+                        </svg>
+                        <span>Spine alignment</span>
+                      </div>
+                    </div>
+                    <div class="space-y-2 text-sm leading-relaxed text-gray-800">
+                      <img
+                        src="images/spine_alignment.JPG"
+                        alt="Spine alignment visualization"
+                        class="rounded-md border border-gray-200"
+                      />
+                    </div>
+                  </div>
+                  <div class="text-xs text-gray-500">
+                    Note: The spine alignment module evaluates whether the head position falls inside the circle bounded by vertical lines extending from the leg keypoints.
+                  </div>
+                </div>
+                <div
+                  data-example-index="3"
+                  class="flex h-full flex-col space-y-4 rounded-lg border p-4 shadow-sm"
+                  style="display: none"
+                >
+                  <div class="flex flex-col">
+                    <div
+                      class="mb-2 rounded-md border-[#F59E0B]/20 bg-[#F59E0B]/10 p-2 text-xs text-[#D97706]"
+                    >
+                      <div class="flex items-center space-x-1">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="24"
+                          height="24"
+                          viewBox="0 0 24 24"
+                          fill="none"
+                          stroke="currentColor"
+                          stroke-width="2"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                          class="lucide lucide-arrows-left-right h-3 w-3"
+                        >
+                          <path d="M3 12h18"></path>
+                          <path d="M9 18l-6-6 6-6"></path>
+                          <path d="m15 6 6 6-6 6"></path>
+                        </svg>
+                        <span>Draw force line</span>
+                      </div>
+                    </div>
+                    <div class="space-y-2 text-sm leading-relaxed text-gray-800">
+                      <img
+                        src="images/draw_force_line.JPG"
+                        alt="Draw force line visualization"
+                        class="rounded-md border border-gray-200"
+                      />
+                    </div>
+                  </div>
+                  <div class="text-xs text-gray-500">
+                    Note: The elbow angle is intentionally exaggerated in this example for demonstration purposes.
+                  </div>
+                </div>
+                <div
+                  data-example-index="4"
+                  class="flex h-full flex-col space-y-4 rounded-lg border p-4 shadow-sm"
+                  style="display: none"
+                >
+                  <div class="flex flex-col">
+                    <div
+                      class="mb-2 rounded-md border-[#2563EB]/20 bg-[#2563EB]/10 p-2 text-xs text-[#1D4ED8]"
+                    >
+                      <div class="flex items-center space-x-1">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="24"
+                          height="24"
+                          viewBox="0 0 24 24"
+                          fill="none"
+                          stroke="currentColor"
+                          stroke-width="2"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                          class="h-3 w-3"
+                        >
+                          <path d="M4 12h16"></path>
+                          <path d="M10 8l-4 4 4 4"></path>
+                          <path d="m14 8 4 4-4 4"></path>
+                        </svg>
+                        <span>Draw length</span>
+                      </div>
+                    </div>
+                    <div class="space-y-2 text-sm leading-relaxed text-gray-800">
+                      <img
+                        src="images/draw_length.JPG"
+                        alt="Draw length visualization"
+                        class="rounded-md border border-gray-200"
+                      />
+                    </div>
+                  </div>
+                  <div class="text-xs text-gray-500">
+                    Note: Draw length is marked inconsistent when it deviates by more than one standard deviation plus a 0.03 hip-width grace to offset noise.
+                  </div>
+                </div>
+                <div
+                  data-example-index="5"
+                  class="flex h-full flex-col space-y-4 rounded-lg border p-4 shadow-sm"
+                  style="display: none"
+                >
+                  <div class="flex flex-col">
+                    <div
+                      class="mb-2 rounded-md border-[#EF4444]/20 bg-[#EF4444]/10 p-2 text-xs text-[#B91C1C]"
+                    >
+                      <div class="flex items-center space-x-1">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="24"
+                          height="24"
+                          viewBox="0 0 24 24"
+                          fill="none"
+                          stroke="currentColor"
+                          stroke-width="2"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                          class="lucide lucide-arrow-up-right h-3 w-3"
+                        >
+                          <path d="M7 17 17 7"></path>
+                          <path d="M7 7h10v10"></path>
+                        </svg>
+                        <span>Bow arm follow-through</span>
+                      </div>
+                    </div>
+                    <div class="space-y-2 text-sm leading-relaxed text-gray-800">
+                      <img
+                        src="images/bow_arm_follow_through.JPG"
+                        alt="Bow arm follow-through visualization"
+                        class="rounded-md border border-gray-200"
+                      />
+                    </div>
+                  </div>
+                  <div class="text-xs text-gray-500">
+                    Note: Bow arm collapse is considered present when the 
+                    angle measured 17 frames after release deviates from the 
+                    full draw angle by eight degrees according to our experiments.
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Demo -->
+      <section class="mb-12 w-full">
+        <div class="mx-auto max-w-3xl">
+          <h2 class="mb-4 text-center text-2xl font-bold">Demonstration</h2>
+
+          <div
+            class="mx-auto mb-6 h-0.5 w-16 bg-gradient-to-r from-gray-300 to-gray-100"
+          ></div>
+
+          <!-- Responsive YouTube video -->
+          <div class="relative w-full overflow-hidden rounded-lg aspect-video">
+            <iframe
+              class="absolute inset-0 h-full w-full"
+              src="https://www.youtube.com/embed/VIDEO_ID"
+              title="STRAIGHT Demonstration"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </div>
+        </div>
+      </section>
+
+
+      <!-- Footer -->
+      <section class="mb-6 w-full text-left">
+        <p class="mt-2 text-sm text-gray-700">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="18"
+            height="18"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            class="inline-block align-middle mr-1"
+          >
+            <rect x="3" y="5" width="18" height="14" rx="2" ry="2"></rect>
+            <polyline points="3 7 12 13 21 7"></polyline>
+          </svg>
+          For any inquiries or feedback, please contact us at
+          <a
+            class="text-blue-600 hover:underline"
+            href="mailto:agibenchmark@safe.ai"
+            >momonar121a@gmail.com</a
+          >.
+        </p>
+      </section>
+    </main>
+    <script>
+      (function () {
+        const toggles = document.querySelectorAll("[data-accordion-toggle]");
+        const chevronDown = "m6 9 6 6 6-6";
+        const chevronUp = "m6 15 6-6 6 6";
+
+        toggles.forEach((btn) => {
+          const targetId = btn.getAttribute("data-target");
+          const panel = document.getElementById(targetId);
+          const icon = btn.querySelector(".accordion-icon");
+          const iconPath = icon ? icon.querySelector("path") : null;
+
+          if (!panel) {
+            return;
+          }
+
+          panel.style.maxHeight = "0px";
+
+          btn.addEventListener("click", () => {
+            const isOpen = panel.classList.contains("open");
+
+            if (isOpen) {
+              panel.classList.remove("open");
+              panel.style.maxHeight = "0px";
+              btn.setAttribute("aria-expanded", "false");
+              if (iconPath) {
+                iconPath.setAttribute("d", chevronDown);
+              }
+              if (targetId === "authors-panel") {
+                panel.classList.remove("no-border");
+              }
+            } else {
+              panel.classList.add("open");
+              panel.style.maxHeight = panel.scrollHeight + "px";
+              btn.setAttribute("aria-expanded", "true");
+              if (iconPath) {
+                iconPath.setAttribute("d", chevronUp);
+              }
+              if (targetId === "authors-panel") {
+                panel.classList.add("no-border");
+              }
+            }
+          });
+        });
+      })();
+
+      (function () {
+        const cards = Array.from(
+          document.querySelectorAll("[data-example-index]")
+        );
+        const total = cards.length;
+        const perPage = 2;
+        let current = 0;
+
+        const rangeLabel = document.getElementById("example-range-label");
+        const prevBtn = document.getElementById("example-prev");
+        const nextBtn = document.getElementById("example-next");
+
+        if (!rangeLabel || cards.length === 0 || !prevBtn || !nextBtn) {
+          return;
+        }
+
+        const render = () => {
+          cards.forEach((card, idx) => {
+            const visible = idx >= current && idx < current + perPage;
+            card.style.display = visible ? "" : "none";
+          });
+          const start = current + 1;
+          const end = Math.min(current + perPage, total);
+          rangeLabel.textContent = `Examples ${start}-${end}/${total}`;
+        };
+
+        prevBtn.addEventListener("click", () => {
+          current = (current - perPage + total) % total;
+          render();
+        });
+
+        nextBtn.addEventListener("click", () => {
+          current = (current + perPage) % total;
+          render();
+        });
+
+        render();
+      })();
+    </script>
+  </body>
+</html>

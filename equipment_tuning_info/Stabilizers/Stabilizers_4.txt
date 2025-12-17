@@ -1,0 +1,33 @@
+The trifecta of what makes a great stabilizer
+Wind efficiency. Stiffness. Damping. What do those have to do with stabilizers?
+Essentially a stabilizer is just a long carbon stick at the end of your bow. What makes it a good stick versus a bad stick? Follow along and learn what are the key components to a great stabilizer!
+wind efficiency: why does it matter?
+Have you ever shot in the wind and felt yourself get blown around? Wind efficiency measures how much of that is reduced, while still maintaining a balanced set up.
+A thinner rod is going to have a smaller exposed surface area, meaning that there is less material that is exposed to the wind.
+In an indoor range, you're not going to notice a huge difference between wind efficient rods and the thicker ones, but once you're out in the windiest of conditions, why not use everything to your advantage? If you want the most wind efficient stabilizer on the market, check out the RamRods Ultra v4 stabilizers.
+Don't let the wind pull you away from the gold.
+WIND TORQUE
+WIND DRAG
+Stiffness: how is it measured?
+So you've found a thin stabilizer, but can it hold all of the weight you want? That's where stiffness comes in. In short, it's a measure of how much weight the rod can support. Stiffer stabilizers can give you more stability and consistency when using higher amounts of mass weight.
+There are a few ways to figure out the overall stiffness
+Diameter
+The larger the diameter of the rod, the stiffer it will be, but we also know that will give us a larger surface area and be less wind efficient. Finding the right balance is hard, but it's necessary.
+Geometry
+The shape of the rod can affect its overall stiffness. A tapered rod can provide targeted stiffness at the base of the shaft where it experiences the most mechanical stress while maintaining higher wind efficiency at the tip where it experiences the most wind torque.
+After a lot of testing, we've designed rods with the ideal shape for maximizing these qualities.
+Carbon Quality
+Carbon quality determines stiffness too. The higher modulus the carbon is the stiffer it can make the stabilizer at smaller diameters. But this can very quickly get pricey, so determining the right balance of materials to cost is important.
+the three point bend test
+Many companies use the three point bend test, and we did too, back in the day.  In time, however, we felt  this method was less accurate when it came to replicating real-world performance, so we developed our own stiffness test: the C-Spine.
+What is C-Spine?
+Short for cantilever spine, the C-spine measures stabilizer stiffness.
+We test this by locking down the proximal side of a 30 inch stabilizer and hanging 5 pounds of weight at the distal end: this will measure deflection or bend at the tip. A lower bend of deflection means a lower C-spine number, and therefore a stiffer stabilizer. Higher numbers indicate more bend in the rod, which means a weaker stabilizer.
+Check out the C-spine chart for all of our rods so that you can fit the best fit for you.
+Learn More About C-Spine
+Vibration damping: what even is it?
+how damping affects the shot response
+After each shot when you release the string, the limbs of your bow generate shock that travels through your riser, towards your hands, and down into your stabilizers. While some vibration is normal, an excessive amount can be a problem.
+When we say vibration damping, we are referring to the way that your stabilizers can tone down that excessive vibration, for a better shot response. A good amount of vibration damping will let you understand how your bow is interacting with your shot process.
+On a scale of 1-10, with 1 being no vibration and 10 being intense, angry, and harsh vibration, a good place to be is between a 3 and 5. You want to go for the sweet spot where you get feedback from the bow and feel differences from shot to shot.
+Now when it comes to damping with a stabilizer, you want something that is stiff enough to support the mass weight at the end but with enough flex to absorb vibration. You can get even more damping with internal damping mechanisms; all of the RamRods stabilizers are filled with VIBRO-Core, which is our internal damping technology. This improves the feel and clarity of feedback, which will give you a shooting experience with more control. Another thing that affects damping is the geometry of the stabilizers. A tapered stabilizer has a spectrum of resonant frequencies, and it assists with vibration damping  since multiple frequencies of vibration are effectively absorbed in the same rod.

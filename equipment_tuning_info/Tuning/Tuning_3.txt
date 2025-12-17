@@ -1,0 +1,2473 @@
+A T
+RROW UNING AND
+M G
+AINTENANCE UIDE
+The Complete Archer(cid:213)s Resource 2nd Edition $2.50
+Choose Your Shooting Style.
+Tuning
+Tuning procedures for the three most popular shooting
+This section includes step-by-step tuning procedures setups are described and abbreviated throughout the
+for obtaining optimum performance and accuracy from manual as follows:
+your bow and arrow setup. Also included are equip- u recurve bows, using finger release (RF)
+ment setup tips, and suggested solutions to most bow u compound bows, using finger release (CF)
+tuning problems. u compound bows, using a release aid (CR)
+Subject Page You will notice that some of the techniques of bow tuning
+apply to all types of bow setups and others apply to just
+Preliminary Bow Setup..............................................1
+one or two types. When separate tuning procedures are
+Standard Tuning Methods
+required for specific setups, find your setup within the
+Bare Shaft Planing Test ......................................4
+topic and follow those specialized instructions.
+Paper Tuning Arrow Test...................................6
+Install All Accessories
+Short Distance Fine Tuning Test.......................8
+Trouble-Shooting Arrow Groups......................8 Before you start any bow tuning procedures, be sure to
+Bow & Arrow Adjustments..............................10 install all accessories on your bow, i.e., the correct
+Broadhead Tuning ............................................11 bowstring, bow sight, stabilizers, arrow rest, cushion
+plunger, etc. In other words, install all the items you
+Fine Tuning...............................................................12
+intend to use when shooting. Any adjustments made to
+Micro Tuning............................................................14
+the bow or changes in bow components can affect the
+Maintenance & Assembly tune of your equipment. When tuning, it is very important
+to change only one variable at a time!
+This section provides instructions for properly cutting
+shafts and installing components. Arrow maintenance
+PRELIMINARY BOW SETUP
+procedures are also included.
+Subject Page
+The first phase in achieving well tuned equipment is
+Measuring and Cutting Shafts.................................15
+good preliminary equipment setup. If the initial setup is
+Aluminum Shaft Component Installation.............18 done correctly, bow tuning can be an easy process. By
+Aluminum/Carbon Component Installation........20 following the bow setup guidelines in the initial prepara-
+Carbon ICS Component Installation.....................23 tion of your equipment, you can eliminate most or all of
+External Component Installation...........................24 the possible disturbances which cause tuning problems,
+Installing Nock Systems...........................................26 including false tuning indicators. A false tuning indicator
+Additional Information............................................30 would be having a high nocking point indication when
+the problem is actually poor clearance.
+Install the Nocking Point
+INTRODUCTION TO TUNING
+Install a moveable nocking point on the bowstring.
+Clamp-on types are ideal. Initially, position the nocking
+Successful tuning can only be achieved by using a point on the bowstring about 1/2" (1.3 cm) above square
+properly spined arrow shaft. Initially, it is best to start for RF and CF and approximately 1/4" above square
+with a shaft recommended by one of Easton’s Arrow (0.63 cm) for CR. See Fig. 1.
+Shaft Selection Charts or by one of Easton’s computer
+selection programs, the Arrow Flight Simulator or Fig. 1- Nocking Point Position
+Shaft Selector (cid:210)Plus.(cid:211) Final verification is achieved
+during the tuning process. Any problems due to an
+1/2" RF, CF
+improperly spined shaft will become evident during
+1/4" CR
+tuning. Before tuning be sure that shafts are straight,
+are properly fletched, and have perfectly aligned 90(cid:176)
+nocks (see pages 15 thru 30).
+2
+Arrow Tuning and Maintenance Guide
+Find the Limb Centers
+Aligning the Nodes
+In order to have a reference point from which to adjust
+the arrow’s left/right position on the bow, it is necessary Fig. 3 - Nodes
+to find and mark the exact center of the limbs on a Arrow Nodes - As the arrow oscillates, the nodes remain in
+recurve bow, or what is termed the (cid:210)balanced limb direct alignment to the target. This diagram clearly
+illustrates the front and rear node positions of the arrow.
+center(cid:211) on a compound bow.
+The front node is usually closer to the front end of the
+Recurve Bows arrow than the rear node is to the nock end. This is due to
+the mass weight of the point(cid:209)nodes will always be located
+To find the limb center for recurve bows, place a closer to the heavier mass.
+piece of masking tape across the inside of each limb
+a few inches from the riser. With an ink pen, make a Rear Node Front Node
+small vertical mark on the tape in the exact center of Direct Line
+each limb. to Target
+Compound Bows Top View of Arrow
+To find the balanced limb center location for the Fig. 4
+preliminary setup of your compound bow, place a Finger Release (RF, CF)
+piece of masking tape across the inside of each
+limb a few inches from the riser. Accurately mea-
+Line to target Line to target
+sure the width of the limb (at the tape) and place a very
+small pen (or pencil) mark on the tape in the exact center
+of each limb. Next, measure 3/ " (4.8˚mm) to the left of
+16
+the mark (for right-handed archers) and make a larger
+vertical mark on the tape. (Left-handed archers place a
+larger mark 3/ " (4.8˚mm) to the right of the limb center
+16
+mark.) This second mark will be used for arrow center-
+ing. (See Fig. 2.) This procedure is done to compensate When there is As the
+for the amount the eccentric wheel or cam is offset from no pressure on cushion
+the cushion plunger
+the actual center of the limb. The 3/ " (4.8˚mm) measure-
+16 plunger, the compresses,
+ment is an average (cid:210)offset(cid:211) difference for most com- finger-released the nodes of
+pound bows and does not need to be a precise measure- arrow is aligned the arrow
+ment in the preliminary setup stage, as you will locate the slightly outside come in
+the center of direct
+true balanced limb center when performing the fine
+the bowstring. alignment to
+tuning procedures.
+the target.
+Fig. Compound Bow
+2 Balanced Limb Wheel
+Center Location Bow limb Fig. 5 Fig. 6
+Compound Misaligned Arrow RF, CF, CR
+Actual Tape Mechanical (Incorrect Arrow Rest Position)
+limb center Release (CR)
+(right mark) Bowstring
+to target
+Balanced Line to target
+alignment
+limb center Tape
+(left mark) Rear node
+Measured 3/16" position
+Bow limb
+from actual center
+Front node
+Wheel position
+The arrow tip is The arrow is
+(cid:210)Centering(cid:211) the Arrow aligned down the not positioned
+center of the to leave the
+The objective of arrow centering is to have the arrow bowstring. Nodes center of the
+of the arrow are in bow(cid:209)it is out
+leave the (cid:210)theoretical(cid:211) or (cid:210)balanced(cid:211) limb center of the
+alignment to the too far. Nodes
+bow. In actuality, it’s the two nodes of the arrow shaft that
+target. (Since the are not in
+should leave the center of the bow in direct alignment to arrow bends alignment to
+the target. Releasing the string with fingers creates a vertically when the target.
+horizontal bending motion within the arrow. Releasing using a release, the
+nodes stay in
+the string with a release aid causes a slight up/down
+alignment down
+bending motion instead. Because of this, the arrows must the center of the
+be positioned differently for each style of release. (See bowstring.)
+Node Alignment diagram to the right). A description of
+these position adjustments follows.
+3
+Tuning(cid:209)Bow Setup
+Adjust the Arrow’s Adjust the Arrow Rest
+Left/Right Position (recurve and compound)
+The arrow rest support arm position is critical to achiev-
+Adjust the horizontal (in/out) position of the cushion
+ing good arrow clearance.
+plunger or arrow rest assembly so that the tip (center) of
+the arrow point is correctly aligned with the type of With Finger Release (RF, CF)
+equipment you shoot.
+Most Flipper/Rest setups have an adjustable arm
+With Finger Release (RF, CF) for the arrow rest. If this adjustment is available
+on the rest you’re using, the arrow rest support arm
+Align the (cid:210)tip(cid:211) of the arrow point 1/ " to 1/" (1.6-
+16 8 should be adjusted so that it is not visible past the outside
+3.2˚mm) or less outside the bowstring with the
+of the arrow shaft when observed from an overhead view.
+bowstring properly centered according to Fig. 7. The
+See Fig. 8.
+arrow tip is placed slightly outside the string to provide
+compensation for the amount the cushion plunger or side With Mechanical Release (CR)
+loading device compresses into the bow when the arrow
+On launcher type rests, commonly used on
+is released. See Fig. 4.
+compound bows with release aids, be sure that
+With a finger release, the arrow bends horizontally, first the arrow support arm is narrow enough to
+bending in toward the bow, then bending away from the allow the two lower vanes to pass over the rest without
+bow, which causes the arrow shaft to leave the arrow rest. making contact. (See the Fig. 9.) This is very important
+In the next bending sequence, the arrow nock disengages for archers using release aids because the arrow is most
+from the bowstring. The arrow is then on its way, freely often supported on the rest for its full length of forward
+oscillating all the way to the target. The amount of travel. For the smaller diameter aluminum/carbon or
+oscillation decreases as the arrow travels farther from the carbon shafts with less space between vanes, it may be
+bow. necessary to significantly reduce the width of the launcher
+blade.
+With Mechanical Release (CR)
+Align the (cid:210)tip(cid:211) of the arrow point down the
+center of the bowstring. See Fig. 5. The center
+line (axis) of the arrow must start out in a direct
+line with the bowstring when the bowstring is aligned to
+the balanced limb center. See Fig. 7.
+When using a release, the arrow most often bends
+vertically, rather than horizontally. Therefore, there is no
+need to compensate for any inward compression of the
+arrow rest or cushion plunger. Follow the bow tuning
+methods in the Fine Tuning and Micro Tuning sections
+on pages 12-14 to find the best in/out position for your
+arrow shaft, which allows the arrow nodes to be in direct
+alignment to the target.
+The diagrams in Fig. 7 indicate the correct in/out arrow
+position for your shooting style.
+Recurve Bow Compound Bow Compound Bow
+Finger Release Finger Release Mechanical
+Release Aid
+Fig. 9
+Arrow Arrow Arrow Tip Arrow Rest - Back View, Vane Clearance (CR)
+Tip Tip in line
+with
+bowstring
+Nock Nock Nock
+Bowstring aligned Bowstring aligned with
+with limb center balanced limb center
+WOB WOB
+Fig. 8
+Arrow Rest - Overhead View (RF, CF)
+Correct Position Incorrect Position
+(out too far)
+Arrow rest Arrow rest
+NOTE: NOTE:
+Be sure enough Be sure that the
+of the flipper arrow rest has
+arm is extended enough height
+to safely hold above the arrow
+the arrow on the shelf to allow for
+Fig. 7 - Arrow Centering rest. vane clearance.
+Correct - Incorrect -
+Good Vane Poor Vane
+Clearance Clearance
+4
+Arrow Tuning and Maintenance Guide
+Adjusting for Outsert Components (CR) specifications including length, type of material, type
+When using carbon arrow shafts which have exter- and color of serving, etc.
+nally fitted nocks, it may be necessary to adjust your
+The brace height determines the specific point at which
+nocking point up slightly to allow the nock to clear
+the arrow separates from the bowstring and the amount
+the arrow rest. The nock diameter is significantly
+of bend the arrow has when the separation occurs. The
+larger than the shaft diameter on these arrows. A slightly
+best brace height for your recurve or compound bow is
+higher nocking point lifts the arrow off of the arrow rest
+one that allows the most compatible launch position for
+and keeps the nock from coming in contact with it,
+the arrow at the end of the bow(cid:213)s (cid:210)power stroke.(cid:211) Locating
+eliminating a potential clearance problem.
+the best brace height for your bow can significantly
+Riser-Mounted Clickers (rf, cf) improve arrow grouping and shooting consistency.
+Set the Brace Height
+For clicker shooters, be sure that the arrow is well
+supported on the rest and not held in place by the tension (Compound bows)
+of the clicker only. It is important to draw the bow a few
+Brace height is set by the compound bow manufac-
+times without the clicker to make sure the arrow can be
+turer. Sometimes changing the brace height to a
+drawn and let down without the arrow falling off the
+slightly higher or lower position will improve
+arrow rest.
+arrow flight and grouping. This can be accom-
+Align the Bow-sight Pin plished by changing the length of the string, as
+described previously for recurve bows. Remember, how-
+Initially, set the sight pin on your bow sight over the
+ever, that changing the brace height of a compound bow
+centerline of the arrow shaft.
+affects the draw weight and draw length of the bow.
+Set the Cushion Plunger
+Nock-to-Bowstring Tension
+Not every type of bow setup uses a cushion plunger.
+The nock tension ((cid:210)snap fit(cid:211)) necessary to separate the
+Some archers use rests without a cushion plunger. For
+nock from the bowstring serving can be very critical,
+example, many tournament archers use a Springy“ rest,
+especially on light draw-weight bows (30 lbs. and under).
+and some traditional archers use other styles of arrow
+Nock tension should be tight enough so the arrow can
+rests that do not have side pressure tension adjustments.
+easily support its own weight when the arrow is hanging
+If your setup incorporates a cushion plunger, start with
+vertically on the bowstring (nock against the nocking
+the spring tension set at medium.
+point). To check this, hang your arrow vertically from the
+Set the Brace Height bowstring, and give the string a sharp tap with your finger
+on the serving about 1-2" (2.5-5 cm) from the arrow nock.
+(Recurve bows)
+The arrow should separate from the string. If it does not,
+Start with the brace height at the lower end of the
+the nock is probably too tight for most target archery. For
+manufacturer(cid:213)s recommendation or use the follow-
+hunting, a slightly tighter nock-to-bowstring fit is often
+ing chart. To locate the optimum brace height for
+preferred.
+your particular bow, (cid:210)twist up(cid:211) the bowstring to
+make it shorter. This raises the brace height. STANDARD TUNING
+METHODS
+BOW LENGTH BEGINNING BRACE HEIGHT
+64" 8 1/" - 8 1/" (21.0 cm - 21.6 cm)
+4 2 Now that you have completed the preliminary
+66" 8 3/" - 8 5/" (21.3 cm - 21.9 cm)
+8 8 adjustments you can start the tuning process. Four
+68" 8 1/" - 8 3/" (21.6 cm - 22.2 cm)
+2 4 methods of bow tuning are described (pp. 4 thru 14) (cid:209)the
+70" 8 5/" - 8 7/" (21.7 cm - 22.5 cm)
+8 8 Bare Shaft Planing Test, the Paper Tuning Arrow Test,
+Short Distance Tuning, and Broadhead Tuning.
+All bows are different, even ones of the same make and Bare Shaft Planing Test
+model. Therefore, it is important to locate a brace height
+(Finger release - RF, CF)
+that fits your particular bow and shooting style. Shoot a
+few arrows at the suggested beginning brace height, then In addition to tuning, the bare shaft test is also
+unstring the bow, add 3-4 twists to the bowstring and useful for determining if the correct shaft has
+shoot again. Continue this process until the bow feels been selected. If the left/right adjustments out-
+smoothest and quietest when shooting. lined under (cid:210)Fishtailing(cid:211) do not cause the unfletched
+shafts to group with or very near the fletched shafts, then
+If the bowstring is too short to allow a brace height at the a weaker or stiffer spined shaft (based on where the
+lower setting, you may wish to use a slightly longer string. arrows have impacted) must be selected.
+If the string is too long to allow a higher brace height (and Arrows that do not fly well and do not group tightly are
+starts to knot-up from too many twists), you may wish to usually affected by one or more of the following prob-
+try a slightly shorter bowstring. There are many custom lems:
+bowstring makers who produce strings to your exact
+5
+Standard Tuning(cid:209)Bare Shaft Planing Test
+1. They may PORPOISE in flight. Fishtailing
+2. They may FISHTAIL in flight.
+If the arrow leaves the bow with the nock end leaning to
+3. They may not CLEAR the bow properly as the arrow
+one side or the other, Fishtailing occurs. The nock end of
+leaves the bowstring.
+the arrow will appear to move from side to side as the
+4. They may MINNOW in flight (a specific type of
+arrow follows its flight path. See Fig. 11.
+clearance problem).
+Use the Bare Shaft Planing Test to correct Fishtailing.
+Porpoising
+Shoot three fletched shafts at a distance of 15 to 20 yards
+It is important to correct for Porpoising first. If the arrow (meters), then shoot two identically-aimed, unfletched
+leaves the bowstring with the nock too high or too low, shafts.
+a motion known as Porpoising occurs. Porpoising is
+If the unfletched shafts impact left (stiff) of the identically-
+caused by an incorrect nocking point location. Use the
+aimed, fletched shafts, as seen in Fig. 11 (for a right-
+Bare Shaft Planing Test to find the correct nocking point
+handed archer), either decrease the spring tension on the
+location. Shoot at least three fletched shafts at a distance
+cushion plunger, increase bow weight slightly (if your
+of 15 to 20 yards (or meters). Then shoot two identically-
+bow weight is adjustable), or increase arrow point weight.
+aimed unfletched shafts. Once you get the bare shafts to
+impact close to the fletched arrows at 20 yards (or If the unfletched shafts impact right (weak) of the
+meters), you may want to try shooting 25-30 yards (or identically-aimed, fletched shafts, as seen in Fig. 11 (for
+meters) for a finer tuning indication. a right-handed archer), increase the spring tension on the
+cushion plunger, decrease bow weight slightly (if your
+If the unfletched shafts impact above the identically-
+bow weight is adjustable), or decrease arrow point weight.
+aimed fletched shafts, move the nocking point up on the
+bowstring until both fletched and unfletched shafts strike Your equipment is basically tuned when the bare shafts
+at the same elevation. See Fig. 10. and fletched shafts impact at the same or very near the
+same location. Once you have completed the finer tuning
+If the unfletched shafts impact below the identically-
+methods listed for Fine Tuning and Micro Tuning on
+aimed fletched shafts, move the nocking point down on
+pages 12-14, do not be surprised if the bare shaft impact
+the bowstring until the unfletched shafts hit at the same
+changes. It is common on a well-tuned bow to have the
+elevation or slightly lower than the fletched shafts.*
+bare shaft impact a little low and slightly stiff (to the left
+To assure you have eliminated Porpoising, repeat the of the fletched shafts for a right-handed archer).
+test, shooting first the fletched, then the unfletched shafts, Occasionally, a good tune may be achieved with the bare
+and make adjustments to the nocking point until both shaft impacting slightly weak (to the right of the fletched
+fletched and unfletched shafts impact at the same shafts for right-handed archers), but this is less common.
+elevation.
+When correcting Fishtailing using the Bare Shaft Planing
+Test, you may have a problem adjusting the unfletched
+Fig. 10 shaft’s impact to that of the fletched shaft. Your arrows
+Porpoising might be too weak (the unfletched shaft impacts to the
+right of the fletched shaft for right-handed archers) or too
+stiff (the unfletched shaft impacts to the left of the fletched
+shaft for right-handed archers). If, after completing this
+test, the bare shaft impact is more than 6 inches (15 cm)
+to the right (weak) or left (stiff) of the fletched shafts at 20
+yards (18 m), you will need to make some modifications
+to the equipment to achieve a better tune. Follow the
+suggestions on how to better match the arrow to your
+bow in the (cid:210)Adjustments Within the Bow and Arrow
+System(cid:211) section on page 10.
+Clearance
+Proper clearance is absolutely essential for optimum
+grouping, consistency and accuracy. This is especially
+true with ultra-light weight arrows like the UltraLite
+aluminum, the A/C/E and A/C/C HyperSpeed shafts.
+After you have performed the Bare Shaft Planing or
+Nocking point too low* Nocking point too high* Paper Tuning Arrow Test, it is a good idea to check for
+adequate clearance. To check for clearance, use dry
+powder foot spray, dry deodorant spray or similar product,
+* It is sometimes desirable to have the bare shaft impact just slightly applied to the last quarter of the arrow shaft, fletching,
+below the identically-aimed fletched shafts. Bare shafts that impact above arrow rest assembly and sight window near the arrow
+identically-aimed fletched shafts indicate a low nocking point. If the
+rest. Do not disturb the powder sprayed on the arrow and
+nocking point is too low, it may force the arrow fletching down into the
+arrow rest, creating Clearance problems.
+6
+Arrow Tuning and Maintenance Guide
+2. Make sure your arrow rest support arm does not
+protrude past the outside of the arrow shaft when the
+Fig. 11 arrow is resting on the support arm and is lying against
+Fishtailing the cushion plunger or side loading device. See Fig. 8.
+3. Choose a lower profile fletching.
+4. Follow the procedures for Tuning Adjustments within
+the Bow and Arrow System on page 10 for equipment
+modifications to achieve a better tune.
+5. Move the cushion plunger or side loading device
+slightly out from the bow to help increase clearance if
+the other tuning modifications have no effect.
+Paper Tuning Arrow Test
+(Recurve or compound - RF, CF, CR)
+Archers using mechanical release aids (CR) should review
+the following reminder notes before starting the Paper
+Tuning Test.
+Stiff Arrow Weak Arrow
+Unfletched shafts impact left Unfletched shafts impact right 1. Align the arrow down the center of the bowstring with
+(RH archer, opposite for LH) (RH archer, opposite for LH) the tip of the arrow point correctly positioned as
+indicated in Fig. 7, page 3.
+2. Initially position the sight pin over the centerline of
+Fig. 12
+the arrow.
+Minnowing
+3. When using a release aid the arrow normally bends
+more vertically than horizontally, so good clearance
+is essential. Usually, the entire arrow contacts the rest
+when it is shot and the fletching must be positioned to
+clear the rest.
+(cid:210)SHOOT-THROUGH(cid:211) RESTS - It may be necessary to
+bow while preparing to shoot. The arrow should be shot adjust the width of the arrow rest support arm(s) so the
+into a firm target so that it will not penetrate to the fletching will pass cleanly over or through.
+fletching. (cid:210)SHOOT-AROUND(cid:211) RESTS - Vane-to-nock indexing is
+very important and should be adjusted to achieve
+If you are not achieving good arrow clearance, and the
+maximum clearance.
+arrow fletching and bow make contact, optimum grouping
+cannot be achieved. By examining the areas where the The Paper Tuning Arrow Test is the most commonly
+dry powder spray is scraped off, the nature of any used bow tuning test for archers using compound bows
+interference can be determined, and the position of the with release aids. This test also works well for finger
+fletching as the arrow leaves the bow can be identified. release:
+Easton has introduced a new term indicating clearance 1. Firmly attach a sheet of paper to a picture frame type
+problems called Minnowing. Like Fishtailing or rack approximately 24" X 24" (60 x 60 cm).
+Porpoising, Minnowing indicates a specific arrow flight 2. Position the center of the paper about shoulder height
+disturbance. Minnowing will appear to look much like with a target mat about six feet behind the paper to
+Fishtailing except that the tail of the arrow appears to stop the arrows.
+move from side to side more quickly, and the amount of
+3. Stand approximately 4 to 6 feet (7.8-1.5 m) from the
+side swing is usually much less than in Fishtailing. (See
+paper.
+Fig. 12.) Minnowing indicates inadequate clearance and
+is caused by the rear portion of the arrow (usually 4. Shoot a fletched arrow through the center of the paper
+fletching) contacting the arrow rest assembly. with the arrow at shoulder height (parallel to the
+floor).
+Correcting Clearance Problems
+5. Observe how the paper is torn.
+The following procedures can help you correct clearance
+problems that cause Minnowing:
+1. If the arrow fletching is hitting the arrow rest, try
+rotating your arrow nock 1/32 of a turn. Continue This tear indicates good arrow flight. The
+rotating the nock in 1/32-turn increments until point and fletching enter the same hole.
+clearance is achieved.
+7
+Standard Tuning(cid:209)Paper Tuning Arrow Test
+This tear indicates a low nocking point. 3. Make sure the bow hand is well relaxed to eliminate
+To correct, raise the nocking point 1/16" excessive bow hand torque.
+(1.6˚mm) at a time and repeat the proce-
+dure until the low vertical tear is elimi- This tear indicates a weak arrow reaction
+nated. or clearance problem for right-handed
+finger release (RF, CF) archers. Left-handed
+This tear indicates a high nocking point, finger release archers will have the opposite
+clearance problem, or a very weak arrow if pattern. For right-handed compound
+you are using a release aid. To correct, archers using mechanical releases (CR),
+lower the nocking point 1/16" (1.6˚mm) at the left tear is common and usually indicates a weak
+a time until the high tear is eliminated. If, arrow reaction and/or clearance problem. If a high-left
+after moving the nocking point a few times, tear exists, (see next tear illustration) make sure you
+the problem is unchanged, the disturbance is most likely correct the nocking point first before proceeding further.
+caused by a lack of clearance or by an arrow which is too
+Finger Release (RF, CF) To correct:
+weak (if using a release aid). To identify a clearance
+problem, check to see if the arrow fletching is hitting the 1.Check for Clearance (See page 5).
+arrow rest. (See (cid:210)Clearance(cid:211) on page 5.) 2.Decrease bow weight/peak bow weight.
+CR - If no clearance problem exists and you are using a 3. Use a lighter arrow point and/or insert combination.
+mechanical release, try:
+4. Use a heavier bowstring (more strands or heavier
+1. A more flexible arrow rest blade if using a launcher material).
+type rest or reduce downward spring tension on
+5. Use a stiffer spine arrow.
+adjustable tension launcher rests.
+6. Increase cushion plunger tension or use a stiffer
+2. Decreasing peak bow weight if there is an indication
+spring on (cid:210)shoot around(cid:211) rests.
+the arrow spine is too weak.
+7. CF only - Move the arrow rest slightly out, away from
+3. Reducing the amount the shaft overhangs the contact
+the bow.
+point on the arrow rest.
+Mechanical Release Aid (CR) To correct:
+4. Choosing a stiffer arrow shaft.
+1. Move the arrow rest to the right. Continue
+to move the rest to the right in small increments
+This tear indicates a stiff arrow reaction for
+until the left tear is eliminated.
+right-handed archers using finger release
+(RF, CF). Left-handed finger release archers 2. Make sure the bow hand is well relaxed to eliminate
+will have an opposite pattern. This is an excessive bow hand torque.
+uncommon tear for right-handed
+3. Decrease peak bow weight.
+compound archers using a mechanical
+release (CR). However, it can occur and generally 4. Choose a stiffer spine arrow.
+indicates that the arrow rest position is too far to the right
+or that there is possible vane contact on the inside of the This tear shows a combination of more
+launcher rest. than one flight disturbance. Use the
+procedures that apply to the tear pattern
+Finger Release (RF, CF) To correct:
+for your style of shooting, and combine the
+1. Increase bow weight/peak bow weight. recommendations, correcting the vertical
+2. Use a heavier arrow point and/or insert pattern (nocking point) first, then the
+combination. horizontal. If you experience a tuning problem (especially
+with the nocking point location) and are unable to correct
+3. Use a lighter bowstring (less strands or lighter material,
+a high/low tear in the paper, have your local pro shop
+like Fast Flight¤).
+check the (cid:210)timing(cid:211) (roll-over) of your eccentric wheels or
+4. Use a weaker spine arrow. cams.
+5. Decrease cushion plunger tension or use a weaker
+For archers using release aids, it may, in some cases, be
+spring on (cid:210)shoot around(cid:211) rests.
+necessary to apply adjustments opposite from those
+6. CF only - Move the arrow rest slightly in toward the
+described. The type of arrow rest and release aid
+bow.
+combination used can alter the dynamic flex of the arrow
+Mechanical Release Aid (CR) To correct: to produce tear patterns contrary to those indicated
+(although it is uncommon).
+1. Move the arrow rest to the left. Continue
+moving the rest to the left in small increments Once you have achieved a good tune at 4 to 6 feet (1.2-
+until the right tear is eliminated. 1.8 m), move back 6 feet (1.8 m) more and continue to
+shoot through the paper. This ensures that the tune is
+2. Make sure the arrow has adequate clearance past the
+correct and that the arrow was not just in a recovery position
+cable guard and cables.
+when it passed through the paper at the first distance.
+8
+Arrow Tuning and Maintenance Guide
+SHORT DISTANCE TUNING
+(Recurve and compound - RF, CF, CR)
+Many times it is not possible to shoot long distances when
+your equipment needs to be tuned. The following method
+results in a very good equipment tune at short distances.
+Use this tuning method after you have completed one of Fig. 13
+the basic bow-tuning methods(cid:209)either the Bare Shaft Up-Down Impact
+Planing or Paper Tuning Arrow Test.
+Start at approximately 12 to 15 yards (meters) from the
+target. Use a 40 cm or 60 cm target face and place it with
+the face side in so you are shooting at a plain white target.
+Up-Down Impact
+Using fletched arrows only, shoot approximately 6 to 8
+arrows along the top edge of the target face. This step
+determines if your nocking point is correct. See Fig. 13.
+Normally, small tuning problems show up at close range,
+Fig. 14
+because the arrow has its maximum vibration at short
+Left-Right Impact
+distance. This test assists you in identifying these arrow
+flight problems and makes it possible to make finer
+adjustments than with the previous tuning procedures.
+If you are unable to consistently hit the top edge of the
+target face, there is probably a small tuning disturbance
+in the equipment. To correct, make a 1/ " (.8˚mm)
+32
+nocking point adjustment either up or down and shoot until you achieve the best possible vertical impact line of
+again. Continue making nocking point adjustments in arrows. If the vertical line widens, go back to your
+1/ 32 " (.8˚mm) increments (no more than 1/ 32 " (.8˚mm) at a original arrow rest position and move it 1/ 32 " (.8˚mm) in
+time). the opposite direction. If the vertical line narrows, continue
+1/ " (.8˚mm) adjustments in that direction until you
+If your arrows are hitting the top edge of the paper more 32
+achieve the straightest line possible.
+consistently and you are achieving a straight, horizontal
+line of arrows across the top of the paper, you are CF archers using cushion plungers should make the
+correcting the disturbance. If the horizontal line of arrow necessary arrow rest adjustments and then try a
+impact is widening, go back to your original nocking second tuning adjustment, the cushion plunger
+point position and start making 1/ 32 " (.8˚mm) nocking spring tension. Increase or decrease spring tension
+point adjustments in the opposite direction. This will 1/8 of a turn at a time. Again, if the vertical line becomes
+provide you with the correct nocking point position. wider, return to the original spring tension setting and
+make 1/8 turn adjustments in the opposite direction until
+Left-Right Impact
+you achieve a narrow vertical impact line.
+Once you have achieved the straightest horizontal line of
+arrows that your ability will allow, you are ready to tune RF archers should make cushion plunger spring
+for left/right arrow impact. Shoot 6 to 8 arrows at the left tension adjustments only, increasing or decreasing
+edge of the paper in a vertical line. See Fig. 14. the spring tension 1/ 8 -turn at a time. If the vertical
+line becomes wider, return to the original spring
+To improve the left/right impact for CR and CF tension setting and make 1/ -turn adjustments in the
+8
+archers, move the in/out position of your arrow opposite direction until you achieve a narrow vertical
+rest. This is done to compensate for the effect of the impact line. Do not move the in/out position of your
+eccentric wheel. The offset of the eccentric wheel arrow! The in/out position of your arrow to the centerline
+on compound bows does not always compensate of the bow has already been established in the preliminary
+for the degree of natural torque generated in the bow. equipment setup.
+The wheel often torques or leans over slightly as it
+reaches the full draw position. This is common and is TROUBLE-SHOOTING
+nothing to be concerned about. At full draw, the (cid:210)limb
+center(cid:211) you started with in the preliminary setup may not ARROW GROUPS
+really be the true balanced center. Therefore, through
+You may have heard people say, (cid:210)If your arrows group
+some trial and error, you must locate the best in/out
+well at 20 yards, they will group at any distance,(cid:211) or, (cid:210)If
+position for the arrow to obtain maximum accuracy.
+your arrows group at long distances, they will group at
+Make a 1/ 32 " (.8˚mm) adjustment either in or out and short distances.(cid:211) In some cases, neither statement is true.
+shoot again. Continue making 1/ 32 " (.8˚mm) adjustments There may be a minute disturbance in the equipment
+9
+Standard Tuning(cid:209)Short Distance Tuning
+that affects the equipment’s potential for superior accu-
+racy and causes poor arrow grouping. What follows here
+is information that will help you perform the fine tuning
+Fig. 15 adjustments necessary to eliminate most or all of the
+Good grouping patterns show progressively increasing minute tuning problems.
+grouping sizes as shooting distances increase.
+Many archers have experienced one or all of the following
+arrow grouping/arrow flight combinations:
+Poor arrow flight and good grouping - This is commonly
+the result of a stiff arrow. The arrow yaws slightly as
+30 m 50 m 70 m 90 m
+it leaves the bow, but usually recovers quickly and
+often produces very acceptable grouping.
+Good arrow flight and poor grouping - Although this
+seems contradictory, the phenomenon is somewhat
+common and relates to the tuning method you use.
+Having a perfect bullet hole through paper using the
+Fig. 16 Paper Tuning Arrow Test, or having the bare shafts
+Excessive Drag impact exactly with the fletched shafts using the Bare
+Shaft Planing Test, does not always mean your arrows
+will group well; it only indicates you have good arrow
+flight. For this reason, Easton has developed the Fine
+Tuning and Micro Tuning methods, to assist you in
+obtaining optimal grouping from your equipment.
+30 m 50 m 70 m 90 m
+Poor arrow flight and poor grouping - This is most often
+a problem of mismatched arrow spine or untuned
+equipment. The information and tuning procedures
+in this bulletin should help you correct this problem.
+Good arrow flight and good grouping - This should be
+the end result of your efforts!
+Fig. 17 Arrow grouping patterns often reveal probable arrow
+Insufficient Clearance flight problems. Two of the most common grouping
+indicators for determining arrow flight problems are
+described below. The examples provided are shown in
+FITA distances, although they easily correlate to any
+30 m 50 m 70 m 90 m long- and short-distance shooting. Fig. 15 illustrates good
+grouping patterns at the distances indicated.
+Excessive Drag
+The grouping examples in Fig. 16 show a large pattern at
+long distances (90 m) but the grouping is within accept-
+Fig. 18 Fig. 19 able limits at closer distances. This pattern implies the
+Poor close range grouping Path without arrow has too much drag. Excessive drag will cause the
+Acceptable long range grouping disturbance arrow to become unstable due to the rapid decay of its
+forward velocity. When forward velocity drops too
+quickly, instability occurs. This unstable flight causes
+90 m poor grouping at long distances and extreme vulnerabil-
+ity to wind drift. On light weight arrows, it is very
+80 m
+important to reduce drag to a minimum to maintain
+70 m
+maximum downrange velocity. This can be done by
+60 m reducing the size (height and/or length) of the fletching
+50 m or by reducing the angle of the fletching, or both.
+40 m Insufficient Clearance
+30 m
+The grouping patterns in Fig. 17 show acceptable group-
+20 m ing at the two long distances. However, the shorter
+10 m distance groups are not reduced in size proportionately
+to the longer distance groups. (Compare to Fig. 15). This
+0 m
+usually indicates a clearance problem or micro distur-
+10
+Arrow Tuning and Maintenance Guide
+bance within the bow and arrow system. To correct, see Point and Insert Weight
+the section on Clearance on page 5 or the Fine Tuning X10, A/C/E and A/C/C, & Beman ICS arrows can be
+and Micro Tuning sections on pages 12-14. tuned by using various point and/or insert weight com-
+binations. External component systems use weight com-
+Fig. 18 illustrates why you may have problems with close
+binations of point plus outsert. Aluminum arrows can be
+distance grouping while long-distance groups are good.
+point-weight-tuned by using 7%, 8% or 9% F.O.C. NIBB
+When an arrow is shot, it is at its maximum bending as
+points. If your arrow is too weak, go to a lighter insert/
+it leaves the bow. As the arrow travels further, the
+point. If your arrow is too stiff, try a heavier insert/point.
+amount of flexing reduces (dampens). If the flexing
+Continue to change insert and/or point weight within the
+reduces, then so does the magnitude of any original
+acceptable balance point range (7-16% F.O.C.).
+disturbance. The example shows that the arrow has some
+disturbance and close range grouping is poor, although Brace Height
+the arrow stabilizes at longer range and provides
+For recurve bows, another way of altering arrow spine is
+acceptable groups. Micro disturbances and clearance
+with the brace height. By increasing or decreasing the
+problems usually cause these disturbances.
+distance from the bowstring to the pivot point of the grip,
+Fig. 19 shows the path of the arrow when it leaves the bow the dynamic spine of the arrow can be made slightly
+without any disturbance. This is the path you are trying weaker or stiffer. Increasing brace height will make the
+to achieve in the Fine Tuning and Micro Tuning processes. arrow shoot weaker, and decreasing brace height will
+make the arrow shoot stiffer.
+ADJUSTMENTS WITHIN THE
+Brace height affects arrow spine by increasing or
+BOW AND ARROW SYSTEM decreasing the amount of energy delivered to the arrow
+at the moment of release. Raising the brace height
+(shortening the bowstring) compresses the limbs,
+If you are having problems tuning your bow, you will
+increasing stress (prestress or preload) in the limb ma-
+need to make some modifications to your equipment to
+terial. The more preloading of the limbs, the greater the
+achieve a better tune. Here are some suggestions:
+actual bow poundage at full draw. The reverse is true
+Bow Weight Adjustment when lowering brace height. A lower brace height
+(lengthening the bowstring) reduces the prestress in the
+Virtually all compound bows, as well as some recurve
+limbs and reduces bow weight at full draw.
+bows, have an adjustable draw weight. If your arrow
+reaction is too stiff, increase the draw weight. If your
+arrow reaction is too weak, decrease the draw weight.
+RECURVE BOW
+MAXIMUM BRACE HEIGHT RANGE
+LENGTH
+Bowstring
+Bowstring (cid:210)weight(cid:211) can have a significant effect on arrow
+64" 73/
+4
+"— 9" (19.7 cm to 22.9 cm)
+spine. Increasing or decreasing the number of strands in
+66" 8" — 91/
+4
+" (20.3 cm to 23.5 cm)
+the bowstring can influence the arrow’s dynamic spine
+68" 81/
+4
+"— 91/
+2
+" (21.0 cm to 24.1 cm)
+enough to require a shaft size change of one full size
+70" 81/
+2
+"— 93/
+4
+" (21.6 cm to 24.8 cm)
+weaker or stiffer. If your arrow reaction is too stiff,
+decrease the number of strands in your bowstring. If your
+However, raising brace height produces some small loss
+arrow reaction is too weak, increase the number of
+in arrow velocity as the slight increase in draw weight
+strands. Serving weight (center serving) can also produce
+does not equally compensate for the reduction in the
+the same effect. For example, monofilament center serv-
+bow’s (cid:210)power stroke.(cid:211) When the power stroke is reduced,
+ing will cause the arrow to react stiffer than lighter weight
+the amount of time the arrow stays on the bowstring is
+nylon center serving. Simply changing from a metal
+also reduced, in turn, decreasing the length of time the
+nocking point to a (cid:210)tie-on(cid:211) nocking point can have a
+arrow has to absorb the bow’s energy.
+noticeable effect on arrow spine, due to the weight
+difference between the two styles of nocking points. Although you may note a small loss in velocity when
+increasing brace height, do not let speed be the deciding
+The bowstring is a critical part of your technical
+factor when selecting the best brace height for your bow.
+equipment. If you have a very difficult time tuning your
+As is often said, (cid:210)Better to have a slow bull’s eye than a
+bow, the problem could be the bowstring. An incorrectly
+fast miss.(cid:211)
+made bowstring can produce a tension imbalance in the
+strands of the string causing some strands to be looser Adjusting the brace height on a compound bow is often
+than others. This imbalance forces the string to load and overlooked as a tuning adjustment. This is because the
+stretch at different rates, creating an inconsistent arrow changes in brace height will change the draw length and
+launch which greatly decreases accuracy. If a problem draw weight possibly requiring additional adjustments.
+exists, and tuning procedures don’t seem to be working, Nevertheless, finding the correct brace height for your
+try changing the string and retuning. compound (usually higher than the manufacturer(cid:213)s setting)
+11
+Standard Tuning(cid:209)Broadheads
+can, in many cases, greatly improve consistency and The field points should be as close in weight as possible
+grouping and should be considered as a fine tuning to the weight of the broadheads. Because it is necessary
+adjustment. to first establish a good group with field points, broadhead
+tuning can be done only after acceptable tuning has been
+The chart on the previous page shows the full range of
+established with field points.
+brace height adjustments for most modern recurve bows.
+Changes within the brace height ranges shown can affect Shoot a Group with Field Points
+arrow spine as much as changing the arrow point and/or
+Set up a suitable broadhead target at a distance of 20 to
+insert weight approximately 20 grains (1.3 grams).
+30 yards. Using a set of field-tipped arrows that have been
+Remember, it is best to shoot your bow at its smoothest
+tuned with your bow, shoot a group of 3 or 4 arrows into
+and quietest setting, (although most recurve bows perform
+the target. Take care to shoot as good a group as you are
+well at two brace height settings). Easton does not suggest
+capable.
+an extreme range of brace height. The chart offers a
+range wide enough to create a (cid:210)between(cid:211) size arrow Shoot a group with Broadheads
+spine. Using identical arrows tipped with broadheads, shoot a
+If, after trying all of the tuning procedures listed, you find group of 3 or 4 arrows into the target. Use the same
+your arrows are still too weak or too stiff to fly properly, aiming spot that was used for the field points.
+choose a different arrow size and retune. The shot group is the key. If you are content you have
+shot a respectable group based on your ability, then
+BROADHEAD TUNING compare the position of the two groups. Make the
+adjustments listed below to your setup and shoot both
+groups again. Keep adjusting and shooting until both
+In general terms, broadhead tuning is done by first
+groups (field points and broadheads) group in the same
+shooting a group of arrows with field points into the
+area.
+target, and then by shooting a group of arrows with
+broadheads. The two groups are compared and the Make Adjustments
+appropriate adjustments are made.
+See Fig. 20 below and adjustments on next page.
+CAUTION: Never shoot unfletched shafts with
+broadheads(cid:209)flight is extremely erratic and dangerous!
+Fig. 20
+Broadhead Tuning
+Remember — make only one
+Raise Nocking Point adjustment at a time.
+Multiple Adjustments
+¥ Raise nocking point first
+¥ Make stiff spine
+adjustments last
+Stiff Spine Reaction Weak Spine Reaction
+(Adjustments are for right- (Adjustments are for right-
+handed shooters. Reverse for handed shooters. Reverse for
+left-handed shooters.) left-handed shooters.)
+¥ Increase bow poundage ¥ Decrease bow poundage
+¥ Increase broadhead weight ¥ Lighten broadhead weight
+¥ Decrease tension in cushion ¥ Increase tension in cushion
+plunger plunger
+¥ Move the arrow rest or cushion ¥ Move the arrow rest or cushion
+plunger in toward the bow. plunger out away from the bow.
+Make adjustments 1/32" at a Make adjustments 1/32" at a
+time. time.
+= Field Point Group
+Lower Nocking Point
+= Broadhead Group
+12
+Arrow Tuning and Maintenance Guide
+Adjustments
+FINE TUNING
+Adjustments sometimes effect more than is expected. It
+is best to always make the up/down adjustments first.
+The Fine Tuning process is similar to Micro Tuning but
+Once the two groups are on the same horizontal plane,
+slightly less refined. You will need a pencil and paper and
+then make the left/right adjustments.
+several copies of the sample targets provided below.
+1. If the broadheads group above the field points, move
+1. Write down the exact measurements of your bow.
+the nocking point up.
+For example:
+2. If the broadheads group below the field points, move
+a. Nocking point height
+the nocking point down.
+b. Brace height
+3. If the broadheads group to the left, they are behaving c. Tiller
+as if the shaft is too stiff (for a right handed archer). d. Number of strands in the bowstring
+Any, or several, of the following can be done to e. Bow draw weight
+correct the point of impact. f. Type of stabilizers used, etc.
+¥ Increase the poundage on the bow. In other words, everything you can think of to docu-
+¥ Change to heavier broadheads. ment your equipment.
+¥ If you are using a cushion plunger, decrease the
+2. Number your arrows. This enables you to plot groups
+spring tension.
+and to plot each individual arrow impact.
+¥ Move the arrow rest or cushion plunger in toward
+3. Prepare to shoot from a comfortable distance,
+the bow. Make adjustments 1/ " at a time
+32
+somewhere between 40 to 60 yards (meters).
+4. If the broadheads group to the right, they are behaving
+4. Shoot an end or two to warm up before starting.
+as if the shaft is too weak. Any or several of the
+following can be done to correct the point of impact. 5. After warming-up, shoot a group of 6 to 10 fletched
+¥ Decrease the poundage on the bow. arrows.
+¥ Change to lighter broadheads.
+6. Write down the number of each arrow and the impact
+¥ If you are using a cushion plunger, increase the
+point on the sample target.
+spring tension.
+¥ Move the arrow rest or cushion plunger out away 7. Repeat steps 5 and 6 and compare. You want to
+from the bow. Make adjustments 1/ " at a time. achieve similar results initially.
+32
+Remember, broadhead tuning can only be accomplished 8. Make adjustments as described on the following page.
+after the bow has been properly setup and tuned with
+field or target points.
+5 5
+6 6
+7 7
+8 8
+9 9
+5 6 7 8 9 9 8 7 6 5 5 6 7 8 9 9 8 7 6 5
+9 9
+8 8
+7 7
+6 6
+5 5
+5 5
+6 6
+7 7
+8 8
+9 9
+5 6 7 8 9 9 8 7 6 5 5 6 7 8 9 9 8 7 6 5
+9 9
+8 8
+7 7
+6 6
+5 5
+13
+Fine Tuning
+Up-Down Impact Arrow Straightness
+Adjust the nocking point 1/ " (.8˚mm) either up or down. Arrows must be straight for tight grouping. Easton rec-
+32
+Shoot another two groups and plot the arrows in the same ommends straightness within 0.004" for best grouping.
+manner as described on page 12. For future reference, be
+Crooked Nocks
+sure to write down your bow adjustment on each arrow
+group you plot. Compare the groups to determine if the There are several ways to check nock straightness, in-
+high and low arrow impact has improved or is worse. If cluding commercially available nock gauges and broad-
+it has improved, make another adjustment of 1/ " (.8˚mm) head spinning wheels.
+32
+in the same direction and shoot another two ends. If the Nock Indexing
+high and low arrow impact is worse, go back to the
+original setting and make the same adjustment in the It is possible that one nock in the set may be turned more
+opposite direction. Continue this process until you achieve than the others. A clearance problem results if the nock
+the most consistent group elevation. is rotated too far, forcing the fletching into the arrow rest
+when shot.
+Left-Right Impact
+CF and CR shooters can adjust the left/right position of Loose or Damaged Fletching
+your arrow rest approximately 1/ 32 " (.8˚mm) either If the fletching becomes even slightly detached from the
+in or out. Shoot two groups and plot the arrows. Be shaft, the arrow will not group with the others. In fact, the
+sure to indicate your bow adjustment on each arrow may not even hit the target past 30 yards (meters)
+plotted arrow group. Compare the groups you just if the back of any fletch is slightly loose! Fletching that is
+shot and determine if they are getting better or worse. If slightly damaged will not usually affect arrow grouping
+the groups improved, make another adjustment of 1/ 32 " unless you shoot a hard or rigid vane. Care should be
+(.8˚mm) in the same direction and shoot another two taken to examine hard vanes each time you shoot to
+ends. If the groups are worse, go back to the original ensure that no vanes are damaged. If the rear of any hard
+setting and make the same adjustment in the opposite vane is bent, it will produce a rudder effect, causing large
+direction. Continue this process until the best possible deviation in impact.
+groups have been achieved with this single adjustment.
+Loose Points/Inserts
+After left/right adjustment of the arrow rest or cushion
+Many archers are not aware of this potential problem.
+plunger, CF shooters can adjust the spring tension of the
+Points must be properly installed with Easton’s hot melt
+cushion plunger 1/ - to 1/ -turn weaker or stiffer and
+8 4 adhesive fully coating the entire length of the shank of
+continue the procedure, making 1/-turn adjustments at a
+8 the point or insert. Carefully follow the instructions on
+time to achieve a finer tune.
+point/insert installation which follow later in this Guide.
+Remember, RF archers should adjust the cushion plunger Easton recommends only Easton’s hot melt adhesive. If
+pressure only, increasing or decreasing the spring you are using another hot melt ferrule cement, it may be
+tension 1/-turn at a time. Do not move the in/out too brittle and may fracture when the arrow impacts hard
+8
+position of your arrow! target butt materials. If the cement fractures or is improp-
+erly applied, it can result in a separation between the
+Reading the Plotted Arrow Groups
+point/insert and the shaft. When the arrow is shot, the
+Carefully examine the arrow grouping patterns you separation of the bond between the shaft and point can
+plotted. Note the different shapes of the groups and how produce a secondary vibration which in turn affects the
+the adjustments altered the arrow impact and size of the arrow(cid:213)s natural vibration and accuracy. To test for point
+groups. Examine each arrow by its number. Take careful vibration, simply hold the arrow near the fletching and
+note of any arrows that did not group consistently with lightly tap the point on a table, or drop the arrow on a
+the other shafts. You will probably want to mark these hard floor from a height of one foot. If you hear a buzzing
+shafts so you will know not to use them in competition. sound, the point/insert is probably loose. Heat and pull
+out the point/insert and properly reinstall per Easton’s
+Identifying Arrow Problems
+instructions on page 19.
+You may find an arrow that does not group well with the
+Arrow Weight
+other arrows in the set. Examine it before you discard
+that arrow or retire it from competition. Sometimes a Arrow weight is an important consideration for the
+problem is easily identified. If a shaft is cracked or dented serious tournament archer and should be checked if you
+it should be discarded. have arrows which consistently impact a little high or low
+of your group.
+Some arrows may seem fine, but they may have problems
+which are not obvious and can cause the arrows not to A matched set of arrows should have no more than a
+group well. The following list includes the common three grain spread between the heaviest and lightest
+arrow problems, many of which can cause tremendous arrows in the set. Top tournament archers frequently
+impact variations. match their arrows to one grain or less.
+14
+Arrow Tuning and Maintenance Guide
+Recurve archers (RF) should adjust only the cushion
+MICRO TUNING
+plunger spring tension, not the in/out adjustment.
+Make adjustments to the cushion plunger spring
+Micro Tuning adjustments are similar to Fine Tuning tension in 1/8 turn increments only. Follow the
+and are designed to produce optimum grouping at all same instructions as for compound bows by first shooting
+distances. two groups and measuring the furthest left and right
+arrows. Make the first spring tension adjustment either
+1. Prepare to shoot from the longest distance you would
+stiffer or weaker and shoot two more ends. Again, if the
+normally shoot in competition.
+group becomes wider, go back to the original setting and
+2. Shoot at least 8 to 10 arrows. make an adjustment 1/8 of a turn in the opposite direction.
+3. Measure and record the distance between your highest Once you have completed the long distance tuning,
+and lowest arrow. move up 20 yards (18 m) and work on the left/right
+4. Shoot a second group of arrows before making any impact again, making the same adjustments as at the
+adjustments. previous distance. It should not be necessary to adjust the
+nocking point, only the adjustments for left/right grouping.
+5. Again, measure and record the distance between
+After you have completed this distance, move 20 yards
+your highest and lowest arrow.
+(18 m) closer and repeat this test again for left/right
+6. Repeat steps 2-5 with each of the following impact only.
+adjustments:
+Continue this process until your last distance is
+Up-Down Impact approximately 20 yards (18 m) from the target. You may
+find that as little as 1/ of a turn on the cushion plunger or
+Make no more than a 1/ " (.8˚mm) change in nocking 8
+32
+a 1/ " (.8˚mm) in/out adjustment (for compound bows)
+point height either up or down. Shoot two more ends and 32
+can have a noticeable effect on short distance grouping.
+record the distance between the highest and lowest
+It is essential to continue testing and tuning in 20 yard (18
+arrow. If the combined distance between the last two
+m) increments. This way, you will know that your
+groups is less than the combined total of the first two
+equipment can perform well at any distance when shooting
+groups, you are making the correct adjustment. Con-
+competition.
+tinue to make 1/ " (.8˚mm) nocking point adjustments
+32
+until you achieve the shortest possible distance between This same fine tuning procedure can be done with brace
+your high and low arrows. height for both compound bows and recurves. Make
+brace height adjustments in approximately 1/ " (.8˚mm)
+If after several nocking point adjustments, you notice the 32
+increments and plot the arrow groups. After completing
+group height starting to open back up, you have probably
+this procedure, you should find a combination of
+gone too far in the adjustment and need to go back to
+adjustments that will either slightly or significantly
+where you had the best setting.
+improve arrow grouping.
+Left-Right Impact
+Points to Remember:
+Once you are satisfied with the impact height of your
+Install all accessories on your bow before you start any
+arrows, you will need to correct the left/right impact.
+bow tuning procedures.
+Continue shooting groups of 8 to 10 arrows. Shoot two
+ends and measure the distance between the furthest left An essential part of your equipment is a good quality set
+and furthest right arrows for both ends. of arrows.
+For compound archers (CF and CR), move the Adjustments made to the bow, changes in bow
+in/out position of your arrow rest 1/ " (.8˚mm) in components, or alterations in shooting form can affect
+32
+either direction. Shoot two more groups and again the tune or your equipment. Remember, you and
+measure the distance between the furthest left and your equipment share a unique relationship and are
+right arrows. Compare these two ends against the previous totally integrated. Any change to either will produce
+two ends. If the total width of the grouping pattern has varying effects.
+reduced, you are making the correct adjustment. If the
+Change only one variable at a time when tuning.
+group becomes wider, go back to your original setting
+If, after trying all of the tuning adjustments outlined in
+and move the rest 1/ " (.8˚mm) in the opposite direction
+32
+this Tuning Guide, your arrows still do not fly true, it
+and resume the test. Continue these adjustments until
+may be necessary to change your arrow size to a stiffer
+you have achieved the tightest possible grouping at that
+or weaker shaft and retune.
+distance.
+CF archers using cushion plungers should make the
+in/out adjustments first until you have achieved the
+tightest left/right impact possible. Then, you can use the **The tuning methods were compiled and edited by
+cushion plunger spring tension the same as described for Don Rabska with contributions from Terry Ragsdale,
+recurves to fine tune your arrow impact. Fred Troncoso, and others.
+15
+Measuring and Cutting Shafts
+Measuring Correct Arrow
+A R R O W Length
+Your Recommended Correct Arrow Length can be
+A S S E M B L Y
+determined by drawing back an extra-long arrow and
+having someone mark the arrow. This distance is
+measured from the front of the bow or from the front of
+Cutting Shafts, Installing the place where the arrow contacts the most forward
+position of the arrow rest. Which method to use depends
+Components, and Arrow
+on the type of bow and arrow being set up.
+Maintenance
+To determine the proper distance for a specific setup,
+find the appropriate illustration (Figures 21-26). From
+this you can measure your arrow length and know where
+Contents
+the shaft should be cut.
+This section of the Arrow Tuning and Maintenance Guide
+contains instructions for the assembly of shafts and Mark the arrow
+in front of the
+components. It starts with functions that apply to all types
+bow or arrow
+of shafts (with noted exceptions)(cid:209)determining correct rest as specified
+length, measuring shafts, and cutting shafts. by the
+appropriate
+illustration
+Methods for installing points and fletching vary based on
+(figures 21-26).
+the type of shaft being used, so these instructions are
+grouped based on their generic shaft type(cid:209)Aluminum,
+Aluminum/Carbon, Carbon with internal components Recommended Correct Arrow
+(ICS), and Carbon with external components.
+Length
+Most shafts can be used with at least two types of nock
+systems, so the nock systems are all grouped together in X10, A/C/E, A/C/C, HyperSpeed, Aluminum,
+one section following the point and fletching sections for and Carbon Shafts with Internal Components
+the various shafts.
+For hunting arrows shot from bows with cutout sight
+The last part of the Guide contains additional information windows (including overdraw bows) and for target/field/
+of a more general nature, including F.O.C. calculations, 3-D arrows shot from all types of bows, it is recommended
+AMO(cid:213)s minimum recommended arrow weights, and that the Correct Arrow Length be determined by drawing
+safety tips. back an extra-long arrow and having someone mark the
+arrow about 1" in front of the place where the arrow
+contacts the most forward position of the arrow rest. This
+extra 1" provides a measure of safety by allowing small
+MEASURING AND CUTTING
+variances in draw length to occur without resulting in a
+SHAFTS target arrow falling behind the arrow rest or an arrow
+with a broadhead falling off from contacting the arrow
+rest. This measurement is your Correct Arrow Length
+and is where your shaft should be cut (see figure 21).
+Correct Arrow Length
+Measured from the bottom of the nock Fig. 21
+groove to the end of the shaft Correct Arrow Length for hunting arrows shot from
+bows WITH CUTOUT sight windows (including
+Correct Arrow Length overdraw) and for all target/field arrows shot from any
+bow with or without cutout sight windows (including
+Correct Arrow Length is measured from the bottom of overdraws).
+the nock groove to the end of the shaft (see diagram). This
+Correct Arrow Length
+distance includes a portion of the nock, the nock insert or
+1"
+outsert if any, and the shaft length. The point is not
+included. This is the length used for shaft selection.
+The optimum length of a finished arrow for a specific
+archer is determined by several factors including the
+draw length of the archer, the style of point, the configu-
+Place where arrow
+ration of the bow, and the archer(cid:213)s shooting style. To
+contacts most forward
+determine your correct arrow length, use the procedures portion of arrow rest
+that follow.
+16
+Arrow Tuning and Maintenance Guide
+For hunting arrows on bows without cutout sight win-
+dows your broadhead should have at least 1" bow clear- Fig. 24
+ance past the far side of the bow. Have someone mark an Correct Arrow Length for hunting arrows shot from
+extra long arrow while you(cid:213)re at full draw about 1" bows WITHOUT CUTOUT sight windows (or not
+beyond the back (far side) of the bow (see figure 22). cutout enough for broadhead clearance).
+NOTE: On bows without cutout sight windows the
+Fig. 22 broadhead cannot be pulled (cid:210)into the bow.(cid:211) It is
+necessary, then to provide enough broadhead clearance
+Correct Arrow Length for hunting arrows with
+in front of the bow when the arrow is pulled to full draw
+broadheads shot from bows WITHOUT CUTOUT
+to prevent the broadhead from bumping against the bow.
+sight windows (or not cutout enough for
+broadhead clearance). Correct Arrow Length is
+measured from 1/4" beyond
+Correct Arrow Length the far side of the bow.
+1" Clearance
+Correct Arrow Length
+1/4"
+1" broadhead
+clearance
+Recommended Correct Arrow
+Length Fig. 25
+Correct Arrow Length for hunting/field arrows
+(Carbon Shafts with External equipped with Point Outserts and broadheads or
+Components) screw-in points shot from bows WITH OVERDRAWS
+AND CUTOUT sight windows.
+Some shafts are fitted with components that fit over the Correct Arrow Length is measured
+outside of the shaft. To accommodate this, the outserts from 11/8" in front of the most
+forward part of the arrow rest.
+and one-piece points must be larger in diameter than the
+Correct Arrow
+shaft. Therefore, all Correct Arrow Length calculations
+Length
+allow for at least 1(cid:218)" clearance from the back of the One-
+2
+Piece Point or Standard Adapter to the most forward part
+of the arrow rest (as indicated by the diagrams). This
+11/8"
+prevents any disturbance to the arrow caused by the
+outsert as the arrow is drawn or released.
+1/2" clearance
+Fig. 23
+Correct Arrow Length for target arrows with One-
+Piece Points shot from ALL TYPES of bows (with
+or without cutout sight windows and with or without
+overdraw).
+For target points Correct Arrow Length
+is measured from 3(cid:218)4" in front of the
+Fig. 26
+most forward part of the arrow rest.
+Correct Arrow Length for all arrows shot from bows
+WITH CUTOUT sight windows (no overdraws).
+Correct Arrow Length
+3/4" 
+sured
+forward part of the arrow rest.
+Correct Arrow Length
+1/2" clearance 11/8"
+from the back of the 1-Piece Point
+to the most forward portion of the
+arrow rest
+1/2" clearance
+NOTE: Beginners with recurve bows may want to add
+an extra 1(cid:218) "-1" to their arrow length so that, as they
+2
+become stronger and their shooting technique improves,
+the arrow will not be too short.
+Measuring and Cutting Shafts 17
+Determining Shaft Cut length
+Fig. 28
+Remember that your Correct Arrow Length is measured THE EASTON PRO SHOP
+to the bottom of the nock groove and includes the small
+CUT-OFF TOOL SET UP
+distance that the nock base extends beyond the nock
+Cut
+taper. Therefore, your shaft cut length is slightly shorter
+than your Correct Arrow Length. through Cutoff
+1/3 of the Wheel
+Cutting Shafts to Length O.D. of
+shaft Wheel
+After determining Correct Arrow Length follow the steps Rotation
+Shaft
+below.
+Note: Carbon shafts of all types must be cut carefully to
+prevent splintering of the carbon (graphite) fibers. Shaft
+Rotation
+Never use rotary tube cutters, hack saws or other meth-
+ods that can damage the shaft or leave a rough cut. Always
+wear a NIOSH approved dust mask and safety glasses when
+Adjustable
+cutting arrow shafts!
+shaft
+1. Set up the Easton Pro Shop Cut-Off Tool to cut the support
+shaft so that after the nock system is installed, the total
+length of the shaft plus nock system will equal your
+The Easton Cutoff Tool is designed to cut all tubular arrow
+desired Correct Arrow Length. To do this you will
+material. The precision motor turns a thin abrasive cutting
+have to temporarily install the nock system on one full
+wheel for an exceptionally burr-free cut on aluminum and
+length shaft and then use that shaft to measure and set can prevent splintering of carbon fibers when cutting carbon
+up the proper cutoff length. shafts.
+2. Set the shaft support on the Cut-Off Tool so the
+abrasive wheel only cuts about 1(cid:218) through the diameter
+3
+of the shaft as shown in Fig. 28 (above right). Easton Aluminum
+3. While slowly rotating the shaft in the same direction
+as the cutoff wheel, gently push the shaft into the
+wheel and rotate the shaft until it is completely cut. Deburr no more than 1/4 of
+Continue to slowly rotate the shaft two more the wall thickness
+revolutions to ensure a square cut.
+4. Deburring and chamfering is the final step. What
+needs to be done varies with the type of shaft (see Easton X10, A/C/E, A/C/C, HyperSpeed
+diagrams to the right).
+ALUMINUM(cid:209)Deburr only the inside of the wall just High strength aluminum
+core tube.
+enough to eliminate the sharp edge of the tube.
+A/C/E, A/C/C and HyperSpeed(cid:209)Deburr the inner Deburr no more than 1/4 of
+aluminum core tube very lightly using the more the aluminum wall
+pointed deburring head on Easton(cid:213)s Cut-Off Tool. Be
+careful not to remove too much aluminum.
+Beman ICS and ICS Hunter
+Beman ICS (Internal Component System)(cid:209)Do not
+chamfer the inside of the tube.
+(cid:0)(cid:0)(cid:0)
+ICS Hunter (Internal Component System)(cid:209)Deburr
+(cid:0)(cid:0)(cid:0)
+the inside of the tube just enough to remove the burr.
+(cid:0)(cid:0)(cid:0)
+Deburr just enough to
+All Carbon with External Components(cid:209)These
+(cid:0)(cid:0)(cid:0) remove burr.
+components fit over the outside of the shaft, so
+(cid:0)(cid:0)(cid:0)
+chamfering must be done on the outside edges of the Beman External Component Shafts
+shaft (see illustration on right). Use the recessed
+grinding stone on the Cut-Off Tool or lightly chamfer (cid:0)(cid:0)(cid:0)
+45(cid:176) Chamfer
+the end of the shaft with 180- or 240-grit sandpaper. (cid:0)(cid:0)(cid:0)
+Rotate the shaft as you lightly drag the edge of the (cid:0)(cid:0)(cid:0)
+shaft along the sandpaper. Three complete revolutions
+(cid:0)(cid:0)(cid:0)
+will produce a sufficient chamfer.
+(cid:0)(cid:0)(cid:0)
+5. Easton recommends that you test-draw one arrow (cid:0)(cid:0)(cid:0)
+with all components installed (without adhesive) before
+cutting and finishing a complete set of arrows.
+(cid:0)(cid:1)(cid:2)(cid:3)(cid:0)(cid:1)(cid:2)(cid:3)
+18
+Arrow Tuning and Maintenance Guide
+I P A
+NSTALLING OINTSAND LUMINUM
+ALUMINUM SHAFT
+I
+NSERTS
+COMPONENT
+INSTALLATION
+MATERIALS NEEDED FOR INSTALLATION
+OF POINTS AND ALUMINUM INSERTS
+¥ 91% isopropyl alcohol ¥ Easton hot-melt
+Shaft Construction ¥ paper towels ¥ torch or burner
+¥ cotton swabs
+Easton shafts, depending on the model line, are pro-
+duced from super high-strength 7178 or 7075 aluminum To produce the most bend-resistant aluminum
+alloys. Both alloys are processed to their highest possible shaft possible, extremely high-yield strength
+strength using Easton(cid:213)s proprietary manufacturing steps. and internal stresses are built into each Easton
+This insures that Easton shafts will stay straight even shaft. Therefore, care must be taken when
+through severe shooting conditions. installing a point or insert to prevent
+splitting the end of the shaft due to over
+Easton shafts are cold drawn many times from an
+stressing. Easton two-piece points and
+aluminum tube that has been fusion bonded from
+RPS aluminum inserts for aluminum shafts
+precision coil stock. This tube has a precisely uniform
+have an exclusive press-fit feature on the
+spine because it is made from uniform thickness coil
+last 1(cid:218) " (3˚mm) of the insert. This feature
+stock, drawn many times, and thermally treated until the 8
+accurately aligns the component in the shaft and holds it
+fusion line is totally absorbed into the adjacent metal. To
+in place while the adhesive hardens.
+further ensure integrity of every shaft, each Easton
+aluminum shaft goes through an eddy current tester that Follow the shaft cutting instructions carefully, then follow
+(cid:210)looks(cid:211) through the wall thickness and rejects any shafts the steps below for point and aluminum insert installation.
+with flaws or imperfections in the material.
+NOTE: To facilitate handling, Easton recommends that
+Each Easton aluminum shaft of a given size and model is a field point be screwed into the insert before heating and
+guaranteed to have the same inside diameter to a tolerance inserting.
+of – 0.0004". This close tolerance ensures a consistent
+CAUTION: Do not overheat aluminum shafts or points!
+point or insert fit. The outside diameter is made to
+This is especially true with thin wall UltraLite shafts
+– 0.0003" tolerance to ensure a uniform spine from shaft
+which heat up more quickly than other aluminum shafts.
+to shaft. In addition, the wall thickness is uniform to give
+Excessive heat (over 400(cid:176) F [200(cid:176) C]) will cause
+consistent spine 360(cid:176) around each shaft.
+recrystallization and could permanently soften or damage
+Shaft Size Identification any size aluminum shaft.
+Easton uses various arrow shaft outside diameters and 1. Clean the inside of the shaft with a cotton swab dipped
+wall thicknesses to obtain the necessary number of shaft in 91% isopropyl alcohol to remove the fine cutting
+spines needed to shoot well from nearly all bow weight dust. Let the shaft dry thoroughly before bonding.
+and arrow length combinations.
+2. With a small gas flame, apply enough heat to the end
+The Outside Diameter is the main factor in determining of the shaft to readily melt a ring of Easton(cid:213)s hot melt
+shaft stiffness. This diameter is coded in the first two adhesive on the inside of the shaft. NOTE: Use
+digits of the shaft size number(cid:209)for example, in 2312, the Easton(cid:213)s Hot Melt Adhesive only. Arrow points can
+23 = 23/64". This is the shaft diameter rounded to the come out in the target mat if adhesives with lower
+nearest sixty-fourth of an inch. The Wall Thickness melting temperatures are used.
+code is the second two digits of the shaft size number.
+CAUTION: Do not overheat!
+These digits indicate the shaft wall thickness to the
+closest one thousandth of an inch(cid:209)for example, in 2312, 3. Grip the point or insert with pliers and heat the shank
+the 12 = 0.012". The wall thickness is the main factor in end just enough so that when it is pushed partly into
+determining the shaft weight. For two shafts of the same the shaft, the ring of adhesive is melted. Push the point
+stiffness, a larger diameter, thin-walled shaft will be or insert about 1(cid:218) 4 " (6˚mm) into the shaft.
+much lighter than a smaller diameter, thicker walled CAUTION: Do not overheat points!
+shaft.
+4. Heat the exposed portion of the point or insert shank
+Easton Aluminum Shaft Weight Groups just enough so a thin layer of hot melt adhesive can be
+Easton aluminum shafts are classified by weight groups, applied to the exposed shank of the point or insert.
+each with its own performance characteristics. There are 5. After applying the adhesive, heat and remelt the
+shaft sizes in each weight group to match nearly every adhesive on the shank of the point or insert.
+bow weight/arrow length combination.
+6. Without delay, while the adhesive is still fluid, slowly
+¥ UltraLite aluminum — .012" wall thickness
+push the point or insert into the shaft until it seats
+¥ SuperLite aluminum— .013" - .014" wall thickness
+against the end of the shaft. Wipe off excess adhesive
+¥ Lite aluminum — .015" - .016" wall thickness
+on a paper towel before hot melt hardens.
+¥ Standard aluminum — .017" - .020" wall thickness
+Aluminum Shaft Components 19
+R EMOVING P OINTS AND A LUMINUM 2. Lightly heat the end of the aluminum shaft for 3-5
+I seconds over a small gas flame.
+NSERTS
+3. Grasp the point in the insert with pliers and try to pull
+When removing an aluminum insert, first thread an RPS
+the insert from the shaft.
+Field or Target Point into the insert.
+4. Repeat steps 1 and 2 until the adhesive bond is
+1. Lightly heat the exposed end of the point for 3-5
+destroyed by the heat and the insert pulls free.
+seconds over a small gas flame.
+Remember, excess heat will destroy the shaft.
+CAUTION: Do not overheat the component or the
+5. Immediately, while the shaft is still hot, clean the
+shaft.
+inside of the shaft by removing any adhesive residue
+2. Immediately grip the point with a pair of pliers. with a bore cleaning brush or small blade.
+3. Twist and pull out the point (and insert if any).
+4. If the point or insert cannot be removed, reheat for 3- P A S
+REPARING LUMINUM HAFTS FOR
+5 seconds and try to remove again.
+F
+LETCHING
+5. Repeat procedure #4 until adhesive softens just enough
+to remove the component. Unless your fletching jig has an adjustable nock indexing
+feature, you may choose to fletch your arrows with the
+nocks temporarily installed. After fletching, properly
+I C C
+NSTALLING ARBON OMPOSITE index and bond the nocks so that your style of vanes
+I NSERTS clears your particular arrow rest.
+NOTE: If the nocks are installed without adhesive the
+UNI and Super UNI Systems allow you to rotate the nock
+MATERIALS NEEDED FOR INSTALLATION
+OF CARBON COMPOSITE INSERTS to obtain proper alignment at any time.
+¥ 91% isopropyl alcohol ¥ flexible, two-part, 24-hour Cleaning with Non-chlorinated Ajax¤ &
+¥ paper towels epoxy (such as AAE epoxy)
+¥ cotton swabs ¥ wood toothpick or match stick Water
+1. Rub the shaft in the area to be fletched with wet Ajax
+For an accurate, high-strength installation, be sure on a wet paper towel.
+the shaft ends are cut square. Follow the shaft NOTE: Do not use chlorinated cleansers.
+cutting instructions carefully.
+2. Rinse the shaft and repeat cleaning until water no
+1. Clean the inside of the shaft with a cotton longer beads, but (cid:210)sheets(cid:211) on the shaft surface.
+swab dipped in 91% isopropyl alcohol to remove
+Cleaning with Solvents
+the fine cutting dust. Let the shaft dry thoroughly
+before bonding. 1. Carefully wipe down just the area of the shaft to be
+fletched with MEK, lacquer thinner, or acetone until
+2. Evenly spread a drop of epoxy around the inside of
+no residue shows on a clean white paper towel.
+the first 1(cid:218) " of the shaft with a wood toothpick or match
+4
+stick. 2. For the best bond, follow with a wipe of 91% isopropyl
+alcohol using a clean white paper towel.
+NOTE: A twenty-four hour flexible epoxy such as
+CAUTION: Do not use MEK, lacquer thinner, or ac-
+AAE¤ Epoxy is best. Fast-drying epoxies are often
+etone with the nock installed. Keep these solvents
+brittle.
+away from nocks, shaft identification marks, and UNI
+3. Apply a small amount of adhesive to the entire surface Bushings. Use protective gloves to keep solvents from
+of the insert. penetrating the skin and use proper ventilation.
+4. Install the insert, rotating it as it is pushed slowly into NOTE: Petroleum solvents can accumulate between the
+place. Wipe off excess adhesive. bushing and the shaft wall and weaken the adhesive
+bond. Also, the vapors from trapped solvents could
+5. Stand the shaft on the nock end while drying to
+cause the polycarbonate A/C/E or 3-D Super Nocks
+prevent epoxy from entering the threaded area of the
+to fracture when shot. Be sure the shaft has dried
+insert.
+thoroughly before installing nocks.
+Cleaning with 91% Isopropyl Alcohol
+R C C
+EMOVING ARBON OMPOSITE
+(Recommended for shafts with UNI or Super UNI
+I
+NSERTS Bushings already installed)
+1. Use 91% alcohol as a primary cleaner on shafts with
+Carbon Composite Inserts can be removed by slowly
+UNI or Super UNI Bushings installed. 91% alcohol
+heating the shaft (aluminum shafts only) and breaking
+will not affect the A/C/E or Super Nocks or the
+down the bonding adhesive with heat.
+bushing adhesive.
+CAUTION: Do not overheat the shaft!
+1. Put an RPS Field or Target Point into the insert.
+20
+Arrow Tuning and Maintenance Guide
+F A S
+LETCHING LUMINUM HAFTS
+ALUMINUM/CARBON
+COMPONENT
+INSTALLATION
+1. Because of the preapplied activator on Easton Dia-
+mond Vanes, no cleaning is required if AAE Fastset“
+Installing One-piece Points and
+adhesive is used. If another brand of adhesive is used,
+or for other brands of vanes, wipe the base of the Aluminum Inserts
+vanes with MEK or lacquer thinner to remove any
+mold release chemical from the vanes.
+EQUIPMENT AND MATERIALS NEEDED FOR
+2. When preparing for fletching, observe these
+INSTALLATION OF POINTS AND ALUMINUM INSERTS
+precautions and instructions:
+¥ 91% isopropyl alcohol ¥ Easton hot-melt
+a. Do not touch cleaned areas of the shaft or vanes
+¥ paper towels ¥ torch or burner
+with your hands or other objects. ¥ cotton swabs
+b. Fletch as soon as possible after the shaft has dried.
+If shafts stand unfletched for over 8 hours, repeat
+The instructions that follow can be used for either
+the cleaning process.
+One-piece Points or for aluminum inserts. For
+c. Do not attempt to fletch on very humid days.
+aluminum inserts, screw a point into the insert
+3. Shafts cleaned as described above can be fletched before you begin installation.
+directly using Saunders¤ NPV, Fletch-Tite¤, AAE
+After cutting your A/C* Shaft to length as
+Fastset¤, or similar fletching cement. For added
+described, follow the point installation
+adhesion, a thin dip of lacquer or coating compatible
+procedure carefully to prevent overheating
+with the cement can be used.
+the point. Overheated points can destroy the shaft(cid:213)s
+CAUTION: Do not dip shafts with UNI Bushings or epoxy bond between the carbon and the aluminum tube.
+Super UNI Bushings in lacquer or use petroleum solvents Use only Easton hot-melt adhesive.
+to clean the fletching surface. 1. Clean approximately two inches inside the point end
+Notes on Fletching Aluminum Shafts of the shaft using a cotton swab dipped in 91%
+alcohol. Repeat the process until a fresh cotton swab
+1. Use Saunders¤ NPV, Fletch-Tite¤, AAE Fastset¤ or
+is free of cutting dust residue. Let the shaft dry
+similar fletching cement.
+thoroughly before bonding.
+2. Set the rear of the vane 1-11(cid:218) " from the bottom of the
+4 2. Carefully heat a stick of Easton(cid:213)s hot-melt adhesive
+nock groove.
+over a small gas flame; then apply a ring of hot
+3. Attach fletching at an offset to the centerline of the adhesive to the inside of the point end of the shaft.
+shaft. To assure proper clearance, take into account CAUTION: Do not apply heat directly to A/C shafts.
+the type of arrow rest being used. Do not use an angle
+Use Easton(cid:213)s hot-melt adhesive only. The melting
+of offset so great that the farthest right or farthest left
+point of Easton(cid:213)s hot-melt adhesive is low enough that
+corner of the fletching loses contact with the shaft.
+the shaft will not be damaged during installation and
+There should be no open spaces between the shaft
+high enough to keep the point securely bonded during
+and the ends of the base of the vane.
+the frictional heating caused when the arrow penetrates
+4. Allow cement to fully harden before shooting. Follow the target mat. Arrow points can come out in the
+manufacturer(cid:213)s instructions for full cure time. target mat if lower melting temperature hot-melt
+R F adhesives are used.
+EMOVING LETCHING
+3. Hold the end of the point with your fingers. (Do not
+1. Carefully scrape off the vanes and excess glue with a
+hold with pliers because it is then possible to overheat
+dull knife.
+the point.) Heat the exposed portion of the point or
+2. Wipe fletching area with MEK or lacquer thinner to insert until you feel it getting warm. It should be just
+remove vane and cement residue. hot enough to melt the adhesive.
+CAUTION: Keep solvents away from the nock and CAUTION: Do not overheat points. If the point be-
+shaft identification markings. comes too hot to hold in your fingers, it is too hot to
+3. For the best bond, follow with a wipe of 91% put in the shaft. Set the point on a noncombustible
+isopropyl alcohol using a clean paper towel. surface until cool.
+4. Let dry and re-fletch. 4. Heat the hot-melt adhesive and apply a generous
+layer of adhesive to the shank of the point or insert.
+A N
+TTACHING OCKS * (cid:210)A/C(cid:211) Shaft refers to all models of aluminum/carbon
+See Installing Nock Systems later shafts. Current models are X10, A/C/E, A/C/C, and
+in this guide. HyperSpeed.
+Aluminum/Carbon Shaft Components 21
+5. After applying the adhesive, quickly remelt the NOTE: A twenty-four hour flexible epoxy such as
+adhesive on the shank of the point or insert. Reheat it AAE¤ Epoxy is best. Fast-drying epoxies are often
+enough that when it is pushed into the shaft, the ring brittle.
+of adhesive in the shaft is melted.
+3. Apply a small amount of adhesive to the entire
+6. Without delay, while the adhesive is still fluid, install surface of the insert.
+the point or insert into the shaft with a clockwise
+4. Install the insert, rotating it as it is pushed slowly
+twisting motion until it seats against the end of the
+into place. Wipe off excess adhesive.
+shaft.
+5. Stand the shaft on the nock end while drying to
+NOTE: Do not force a point or insert into an A/C shaft.
+prevent epoxy from entering the threaded area.
+7. With a paper towel quickly wipe off excess adhesive
+while it is still hot. Removing Carbon Composite
+CAUTION: Do not apply heat directly to A/C shafts or Inserts
+overheat points! Overheating points installed in A/C
+Carbon Composite Inserts are permanently installed
+shafts can destroy the bond between the carbon and
+with epoxy and cannot be removed without risking
+the aluminum tube. Applying heat directly to A/C
+damage to the shaft. Attempting to remove the inserts
+shafts can destroy the carbon fiber/epoxy matrix.
+voids the shaft guarantee.
+Removing Points and Aluminum
+Preparing Shafts for Fletching
+Inserts
+1. Grasp the shaft about 1(cid:218) " back from the component.
+2
+There should be 1(cid:218) " to 3(cid:218) " of shaft between your
+2 4
+fingers and the component. (Screw a point into the
+Unless your fletching jig has an adjustable nock indexing
+aluminum insert before heating.)
+feature, you should fletch your arrows with the nocks
+2. Lightly heat only the exposed portion of the
+temporarily installed without adhesive. After fletching,
+component in a small flame for 3-5 seconds.
+index the nocks properly so the fletching clears your
+CAUTION: Do not apply heat to A/C shafts directly.
+arrow rest. If you wish, use one of the recommended
+3. When you feel the shaft just start to warm under your adhesives to attach your nocks (See pages 26-29).
+fingers, grip the component with a pair of pliers. Twist
+NOTE: If no adhesive is used the UNI System allows
+and pull on the component to determine if the adhesive
+you to rotate the nock to obtain proper alignment at any
+has melted. (Or use a small wire hook to remove the
+time.
+UNI Bushing.)
+1. Carefully wipe down just the fletching area of the
+4. If the component does not move, continue to heat in
+shaft with M.E.K. or lacquer thinner using a clean,
+five second increments and twist the component after
+white paper towel. If your nock is already permanently
+each heating period with pliers until it rotates and can
+installed, use 91% isopropyl alcohol in place of all
+be pulled free of the shaft.
+other solvents. Continue wiping the surface with
+solvent until no dirt or carbon residue shows on a
+Installing Carbon Composite
+clean portion of the paper towel. Remember to use
+Inserts protective gloves to keep solvents off the skin and use
+proper ventilation. Do not soak carbon or aluminum/
+carbon shafts in any solvents.
+EQUIPMENT AND MATERIALS NEEDED FOR
+INSTALLATION OF CARBON COMPOSITE INSERTS CAUTION: Do not use lacquer thinner, M.E.K., or
+¥ 91% isopropyl alcohol ¥ flexible two-part, 24-hour epoxy acetone with the nock installed. Keep these solvents
+¥ paper towels (such as AAE epoxy) away from nocks and shaft identification markings.
+¥ cotton swabs ¥ wood toothpick or match stick
+Petroleum solvents could accumulate between the
+bushing and shaft wall and weaken the adhesive
+For an accurate, high-strength installation, be sure
+bond. Also, the vapors from trapped solvents could
+shaft ends are cut square. Follow shaft cutting
+cause the polycarbonate A/C/E Nocks to fracture.
+instructions carefully.
+2. For the best bond, follow with a wipe of 91% isopropyl
+1. Clean the inside of the shaft with a cotton swab
+alcohol using a clean paper towel.
+dipped in 91% isopropyl alcohol to remove the
+fine cutting dust. Let the shaft dry thoroughly 3. Because of the preapplied activator on Easton
+before bonding. Diamond Vanes, no cleaning is required if AAE
+Fastset“ adhesive is used. If another brand of adhesive
+2. Evenly spread a drop of epoxy around the inside
+is used, or for other brands of vanes, wipe the base of
+of the first 1(cid:218)" of the shaft with a wood toothpick or
+4 the vanes with MEK or lacquer thinner to remove any
+match stick.
+mold release chemical from the vanes.
+22
+Arrow Tuning and Maintenance Guide
+When preparing for fletching, observe these precautions 4. Allow cement to fully harden before shooting. Follow
+and instructions: manufacturer(cid:213)s instructions for full cure time.
+a. Do not touch cleaned areas with hands or other
+objects. Removing Fletching
+b. Fletch soon after cleaning. If shafts stand unfletched
+CAUTION: Do not soak any carbon shaft in solvents to
+for over 8 hours, repeat the cleaning process.
+remove the fletching or fletching adhesive. The sol-
+c. Do not attempt to fletch on very humid days.
+vents will slowly absorb into the shaft and weaken the
+resin that bonds the carbon fibers.
+Fletching A/C Shafts
+1a.When using instant adhesives, carefully peel off the
+vanes with a very dull knife and remove most of the
+EQUIPMENT AND MATERIALS NEEDED FOR glue, being careful not to scrape deep enough to
+FLETCHING
+damage the carbon fibers near the surface of the shaft.
+¥ 91% isopropyl alcohol ¥ fletching jig
+1b.If you(cid:213)re using standard fletching cements, pull the
+¥ paper towels ¥ fletching adhesive
+vanes or feathers off by hand or with pliers.
+2. Wipe fletching area with lacquer thinner to remove
+Fletching for A/C target shafts should be as small as remaining glue residue. Do a final wipe with 91%
+necessary to get good flight and grouping. Fletching for isopropyl alcohol.
+A/C hunting shafts should be large enough to stabilize
+CAUTION: Keep solvents away from the nock and
+the size and weight of the broadhead you use. Remember
+shaft logo. See the CAUTION about solvents under
+to always clean the shaft before attaching any style of
+(cid:210)Preparing Shafts for Fletching.(cid:211)
+fletching.
+3. Let the shafts dry before refletching per the instructions
+above.
+1. For Spin-Wing Vanes¤ use the 2-sided adhesive tape
+supplied. For Easton Diamond Vanes no cleaning is
+Pulling Carbon Shafts from
+required if AAE Fastset“ or any cyanoacrylate
+adhesive is used. When installing other brands of Target Mats
+vanes, wipe the base of the vanes with MEK or
+Particles from some target mats may stick
+lacquer thinner to remove any mold release chemical.
+on the shaft because of the heat generated
+For plastic vanes or feathers, cyanoacrylate adhesives during the frictional slowing of these high
+such as Bohning¤ Instant Super Fletch-Tite, AAE speed arrows. This frictional bonding
+Fastset¤ or, other instant fletching adhesives give the may make the shaft difficult to remove
+most secure bond. Saunders N.P.V.¤ or Bohning from the mat. Several suggestions to help
+Fletch-Tite¤ cement may also be used. Shafts must be relieve this problem are:
+properly cleaned before fletching.
+1. Put a coating of hard paste wax or rub a bar of hard
+CAUTION: soap on the point end of the shaft as needed.
+a. Cyanoacrylate instant adhesives (Super Glues)
+2. Use a cloth impregnated with silicone wax or similar
+bond extremely well to carbon fiber, which can
+material or use Saunders Friction Fighter¤ silicone
+make vanes very difficult to remove without
+applicator to wipe the lower quarter of the shaft. Be
+damage to the shaft surface. Easton recommends
+careful not to use too much or too often as the silicone
+testing the adhesive on one A/C shaft before
+will prevent adhesive from adhering to the shaft if it
+fletching an entire set to be sure the surface of the
+migrates to the fletching area.
+shaft is not damaged when the fletching is removed.
+b. Some instant adhesives are brittle and can fracture 3. Use a piece of natural rubber sheet or a commercially
+if vanes are hit by another arrow. Loose vanes can available arrow puller to grip the arrow and make
+drastically affect the flight and grouping of an pulling easier.
+arrow.
+NOTE: Always pull the arrow straight out of the mat.
+2. Set the rear of the vane 1-11(cid:218)" from the bottom of the Make sure no one is behind you when pulling arrows.
+4
+nock groove.
+Attaching Nocks
+3. Attach fletching at an offset to the centerline of the
+shaft. To assure proper clearance, take into account See Installing Nock Systems later in this guide.
+the type of arrow rest being used. Do not use an angle
+of offset so great that the farthest right or farthest left
+corner of the fletching losses contact with the shaft.
+There should be no open spaces between the shaft
+and the ends of the base of the vane.
+Aluminum/Carbon Components - ICS Components 23
+Easton Broadhead Adapter
+CARBON ICS
+Rings
+COMPONENT
+The Easton Broadhead Adapter Rings were de-
+INSTALLATION veloped for carbon shafts to provide a larger
+mounting surface when using broadheads with O-
+ring and other compression-based blade retention sys-
+Carbon Beman ICS* Shafts tems. The larger mounting surface allows O-rings to
+compress rather than roll of the top of the small diameter
+Some models of Beman(cid:213)s Carbon shafts feature the inserts. In addition, the adapter ring provides a smooth,
+Internal Component System (ICS). These shafts are tapered fit from the broadhead ferrule to the insert. Sizes
+made in a larger, more traditional diameter to accommo- are the same as the A/C/C point/insert sizes. Beman ICS
+date internally fitted nocks and points. Even the industry Hunter uses the -60 adapter.
+standard RPS threaded points can be used. These shafts
+provide all of the benefits of carbon(cid:213)s light weight and Removing Points and Inserts
+straightness without the difficulties associated with nar-
+Points and inserts installed with epoxy are permanently
+row diameter shafts and externally fitted components.
+bonded and cannot be removed.
+Currently, Beman(cid:213)s large diameter models of carbon
+shafts are the ICS Hunter and the Beman ICS.
+Installing Points and Inserts
+EQUIPMENT AND MATERIALS NEEDED FOR Fletching ICS Shafts
+INSTALLATION OF POINTS AND INSERTS
+¥ 91% isopropyl alcohol ¥ flexible two-part, 24-hour epoxy When preparing for fletching, observe these precautions
+¥ paper towels (such as AAE epoxy) and instructions:
+¥ cotton swabs ¥ wood toothpick or match stick
+1. Do not touch cleaned areas with hands or other
+objects.
+Install with Epoxy
+2. Fletch as soon as possible after cleaning. If shafts stand
+Note that the ICS Hunter shaft can be fitted only with ICS unfletched for over 8 hours, repeat the cleaning
+Hunter inserts and RPS points. The Beman ICS process.
+(target) uses either ACC-60 one piece points or an 3. Do not attempt to fletch on very humid days.
+ACC-60 RPS insert fitted with RPS points.
+1. With a cotton tipped applicator (Q- Fletching instructions are the same as those used for
+Tip) dipped in 91% isopropyl alcohol, Easton A/C shafts. For instructions see pages 21-22.
+remove the carbon dust from the inside
+of the tube. Attaching Nocks
+2. Put a small ring of flexible, two-part,
+See Installing Nock Systems later in this guide.
+24-hour cure epoxy into the end of the shaft to a depth
+of 1(cid:218) ", so it can coat the inside of the shaft as the point SAFETY AND HUNTING
+4
+is pushed in. A match stick or toothpick may be used.
+PRECAUTIONS
+Do not put too much epoxy in the shaft.
+3. Evenly coat the exposed insert or point shank with
+Shooting Precautions
+epoxy. If installing an insert, it is easier to handle if an
+RPS field point is first threaded into the insert. WARNING: Carbon shafts should be checked for
+cracks or other damage before shooting. Although the
+4. Rotate the shaft while slowly inserting the point or
+Beman shaft is the most durable and strongest carbon
+insert into the shaft. Once the point or insert is fully
+shaft produced, it is not made with a reinforcing alumi-
+seated, rotate the shaft two more complete revolutions
+num core (like X10, A/C/E and A/C/C shafts) and is, like
+to ensure a thorough covering of epoxy on the point
+any carbon shaft, more susceptible to cracking or break-
+or insert shank and inside the shaft.
+ing if the arrow hits a hard object, or is hit by another
+5. Wipe off excess adhesive. arrow. Any carbon shaft should be checked for cracking
+6. Stand the shaft with the point up, in an exactly vertical after each shot.
+position. This maintains correct alignment of the Procedure
+point and also prevents adhesive from flowing into
+Grip the shaft with one hand near the point and the other
+the threaded portion of the insert. Allow the epoxy to
+hand near the fletching. Rotate the arrow while bending
+fully cure.
+it between the hands. If it feels flexible (rubbery), makes
+NOTE: Do not use hot melt adhesive on carbon shafts.
+a creaking sound, or rotates strangely, do not shoot the
+* (cid:210)ICS(cid:211) refers to all models of Beman shafts featuring an arrow again. It could fracture upon release and cause
+internal component system. serious injury to the shooter.
+24
+Arrow Tuning and Maintenance Guide
+6. Stand the shaft with the point up, in an exactly vertical
+EXTERNAL
+position. To maintain correct alignment of the point,
+COMPONENT it must remain vertical and not lean at an angle during
+the cure time. Allow the epoxy to fully cure.
+INSTALLATION
+Removing Target Points
+P S A If installed with the recommended epoxy, one-piece
+OINTS AND TANDARD DAPTERS
+points are permanent and cannot be removed without
+Some models of carbon Beman shafts utilize a compo- damage to the shaft.
+nent system that fits over the outside of the shaft. This
+style of attachment provides protection to the exposed
+ends of the carbon fiber filaments and adds strength to Installing Standard Adapters
+the shaft. To accommodate this, there are two methods
+of point attachment.
+EQUIPMENT AND MATERIALS NEEDED FOR
+Beman One-Piece Target Points(cid:209)These points have an INSTALLATION OF STANDARD ADAPTER
+outside diameter which fits over the outside of the shaft ¥ 180 or 240 grit sandpaper ¥ flexible, two-part epoxy
+¥ 91% isopropyl alcohol ¥ toothpicks or wooden
+to provide protection and strength. In addition, the point
+¥ cotton swabs match sticks
+shank fits inside the shaft to ensure good alignment. ¥ paper towels
+Beman(cid:213)s Standard Adapter(cid:209)This attaches over the end
+Standard Adapters are installed to provide a method of
+of the shaft and provides a threaded fitting for industry
+attaching RPS Points and broadheads. Before installing
+standard 8-32 RPS screw-in points or broadheads.
+adapters, be sure that the shafts have been properly
+chamfered if required (see pages 17-18).
+Installing One-Piece Points
+1.Lightly sand the surface of the last 5(cid:218) " of the
+8
+point end of the shaft with 180 or 240-grit
+sandpaper. Precutting the sandpaper into 5(cid:218) " wide
+EQUIPMENT AND MATERIALS NEEDED FOR 8
+strips simplifies this step.
+INSTALLATION OF ONE-PIECE POINTS
+¥ 91% isopropyl alcohol ¥ flexible two-part, 24-hour epoxy 2.Wipe the front of the shaft with 91% or higher
+¥ paper towels (i.e. AAE epoxy or Beman epoxy) concentration of isopropyl alcohol (available at
+¥ cotton swabs ¥ wood toothpick or match stick
+most pharmacies) until a clean paper towel shows
+no sign of residue.
+Installing with Epoxy NOTE: Rubbing alcohol should not be used. It
+Follow the instructions below for a secure and perma- contains oils which may inhibit the adhesive
+bond.
+nent bond:
+3. Using a cotton swab, wipe the inside surface of the
+1. Wipe both the front 1(cid:218) " of the shaft and the one-
+4
+adapter with 91% isopropyl alcohol.
+piece point shank with 91% isopropyl alcohol until
+NOTE: Be sure the shaft and components are com-
+a clean paper towel shows no residue. Let dry
+pletely dry before bonding.
+completely before bonding. NOTE: Rubbing
+alcohol should not be used. It contains oils which 4. Thoroughly coat the front 1(cid:218) " of the shaft with flexible,
+4
+could inhibit the adhesive bond. two-part, 24-hour cure epoxy such as Arizona Archery
+Enterprises¤ epoxy. Do not put epoxy on the end of
+2. Put a small ring of flexible, two-part, 24-hour
+the shaft because the excess epoxy could be pushed
+cure epoxy into the end of the shaft, so it can coat the
+into the threads of the Adapter.
+inside of the shaft as the point is pushed in. Do not
+put too much epoxy in the shaft. A thin coat is 5. Spread a thin film of epoxy on the front 3(cid:218)" of the
+8
+enough. inside surface of the adapter with a toothpick or wood
+match stick. Be careful not to push epoxy into the
+3. Thoroughly coat the exposed point shank with epoxy.
+threaded section of the outsert.
+4. While rotating the point, slowly insert the point shank
+6. While rotating the outsert, slowly push it over the end
+into the shaft. Once the point is fully seated, rotate the
+point two more complete revolutions to ensure a of the shaft. Once the outsert is fully seated, rotate the
+adapter two more complete revolutions to ensure a
+thorough covering of epoxy on the point shank and
+thorough covering of the shaft and component with
+inside the shaft.
+epoxy.
+5. Wipe off excess adhesive.
+7. Wipe off excess adhesive.
+External Component Systems 25
+Fletching Carbon Shafts
+8. Check for alignment by rolling the shaft on the wheels
+of an arrow straightener or on the top of a clean, flat
+table. If a visible wobble is present, pull the adapter EQUIPMENT AND MATERIALS
+about halfway off and then rotate and push in until NEEDED FOR FLETCHING
+fully seated and check again. If the adapter is still
+¥ 180 or 240 grit sandpaper (optional) ¥ fletching jig
+crooked, rotate the outsert about one-quarter turn at ¥ 91% isopropyl alcohol ¥ paper towels
+a time until it is straight. ¥ fletching adhesive
+9. Stand the shaft with the adapter up, in an exactly
+The fletching used for the target shafts should be as small
+vertical position. To maintain correct alignment of
+as necessary to get good flight and grouping. Fletching
+the adapter, it must remain vertical and not lean at an
+for the hunting shafts should be large enough to stabilize
+angle during the cure time. Allow the epoxy to fully
+the size and weight of the broadhead you use. Remem-
+cure.
+ber to always clean the shaft before attaching any style of
+NOTE: Because shaft damage could occur from excess fletching.
+heat, do not use hot melt adhesive.
+1. For Easton Diamond Vanes, no cleaning is required
+if AAE Fastset“ or any cyanoacrylate adhesive is
+Removing Standard Adapters
+used. When installing other brands of vanes, wipe the
+Once installed with the recommended epoxy, Standard base of the vanes with MEK or lacquer thinner to
+Adapters are permanently attached and cannot be re- remove any mold release chemical.
+moved without damage to the shaft. For plastic vanes or feathers, cyanoacrylate adhesives
+such as Bohning¤ Instant Super Fletch-Tite, AAE
+CAUTION: Do not soak carbon shafts in any type of
+Fastset¤, or other instant fletching adhesives give the
+solvent to remove components or adhesive residue. The
+most secure bond. Saunders N.P.V.¤ or Bohning
+solvents slowly absorb into the shaft and weaken the
+Fletch-Tite¤ cement may also be used. Shafts must be
+resin which bonds the carbon fibers.
+properly prepared before fletching.
+CAUTION: CyanoacrIylate instant adhesives bond
+Preparing Shafts for Fletching extremely well to carbon fiber, which can make vanes
+very difficult to remove without damage to the shaft
+surface. Testing the adhesive on one shaft before
+fletching an entire set is recommended.
+2. Set the rear of the vane 1-11(cid:218) " from the bottom of the
+4
+Nock groove. If using a Standard Adapter, set the rear
+When preparing for fletching, observe these precautions
+of the vane 1(cid:218) - 1(cid:218)" from the end of the adapter.
+16 8
+and instructions:
+1. Do not touch cleaned areas with hands or other 3. Attach fletching at an offset to the centerline of the
+objects. shaft. Do not use an angle of offset so great that the
+farthest right or farthest left corner of the fletching
+2. Fletch as soon as possible after cleaning. If shafts
+loses contact with the shaft. There should be no open
+stand unfletched for over 8 hours, repeat the cleaning
+spaces between the shaft and the ends of the base of
+process.
+the vane. To assure proper clearance, take into account
+3. Do not attempt to fletch on very humid days. the type of arrow rest being used.
+If you are using Beman G-Nocks (same as Easton A/C/C Removing Fletching
+(cid:210)G(cid:211) Nocks) with a Standard Adapter it is best to fletch
+your arrows with the nocks temporarily installed without CAUTION: Do not soak any carbon shaft in solvents to
+adhesive. After fletching, index the nocks properly so remove the fletching or fletching adhesive. This can
+that your style of fletching properly clears your arrow weaken the resin that bonds the carbon fibers.
+rest. If you wish, use an appropriate adhesive to attach
+1. When using instant adhesives, carefully peel off the
+your nocks (see pages 27-29).
+vanes with a knife (not razor sharp) and remove most
+1. Carefully wipe down just the fletching area of the of the glue, being careful not to scrape deep enough
+shaft with 91% isopropyl alcohol using a clean, white to damage the carbon fibers along the shaft(cid:213)s surface.
+paper towel. MEK or lacquer thinner is not used
+2. If using standard fletching cements, pull the vanes or
+because it is incompatible with the glues used for
+feathers off by hand or with pliers.
+attaching the Standard Adapter and with the plastic
+materials used in either style of nock. 3. Wipe fletching area with lacquer thinner to remove
+any remaining glue residue. Do a final wipe with 91%
+2. If using Saunders¤ or Fletch-Tite¤ cement to attach
+isopropyl alcohol.
+your vanes, the fletching area must first be very lightly
+parallel sanded with 180 or 240-grit sandpaper then CAUTION: Keep solvents away from both the nock
+cleaned with 91% alcohol. and the shaft logo.
+4. Let the shafts dry before refletching.
+26
+Arrow Tuning and Maintenance Guide
+Removing Broken Conventional
+INSTALLING NOCK
+Nocks
+SYSTEMS
+1. Heat the conventional nock over a small flame.
+2. When the nock starts to soften, gently grip the
+Nock Styles softened plastic with a pair of pliers and twist off.
+There are three types of nocking systems used on Easton 3. Clean the nock swage (or UNI Extension) by
+and Beman shafts(cid:209)Taper fit (conventional nock system), wiping the taper with a clean cloth soaked in
+Internal fit (includes UNI System and ICS System), lacquer thinner until it is clean of all nock and glue
+External fit (used on some models of Beman Carbon residue.
+shafts). Because shafts can be fitted with more than one
+CAUTION: Nocks should not be cut off with a knife. Do
+style of nock system, all styles are covered in this one
+not sand and do not scrape the shaft nock taper. Cutting
+section.
+into the taper or distorting the precision cone shape by
+uneven sanding or scraping can make it difficult for
+CONVENTIONAL NOCKS
+nocks to be attached straight.
+(Taper Fit System)
+Conventional nocks (taper-fit) are installed on the
+UNI SYSTEM
+aluminum shaft models featuring swaged tapered
+nock ends.
+Attaching Conventional Nocks
+on the Shaft Universal Nock Installation (UNI) System
+Use the following procedure to attach conventional (Internal Fit)
+nocks to shafts with a swaged nock taper.
+Aluminum shafts sizes smaller than 2012, as well as most
+1. If the shaft has been dipped in lacquer or an old nock sizes of A/C/C shafts, use the Standard UNI Bushing
+has been removed, use MEK or lacquer thinner on a which has an inside diameter sized to fit A/C/E (cid:210)G(cid:211)
+clean, white paper towel and wipe the tapered end of Series nocks. Aluminum shaft sizes 2012 and larger use
+the shaft until it is clean and free of old glue or paint. the Super UNI Bushing. This has a larger inside diameter
+Hold the shaft in one hand and rotate it against the which fits the Super Nock and the 3-D Super Nock.
+folded paper towel. Repeat this until all lacquer, glue A/C/E shafts all have the same inside diameter as that of
+or nock remains have been removed. a Standard UNI Bushing, as does the -00 size A/C/C
+shaft, so no adapter is required. A nock can be inserted
+CAUTION: Nocks should not be cut off with a knife. Do
+directly into the shaft.
+not sand and do not scrape the shaft(cid:213)s nock taper.
+Installing Carbon UNI Bushings
+Uneven sanding or cutting into the taper by scraping
+can distort the precision cone shape and can make it Carbon UNI Bushings should be installed with 24-
+difficult for nocks to be attached straight. hour flexible epoxy. Installation of Carbon UNI
+2. Apply a large drop of fletching cement to the clean Bushings is similar to the installation of carbon
+nock taper surface. composite inserts described on page 19.
+The pencil technique for holding the bushing
+3. Spread an even layer of cement around the taper with
+during installation, as illustrated on the following
+your finger tip.
+page, may also be used, but do not attempt to use hot
+4. Quickly, before the cement can dry, press the nock on melt. Use only flexible epoxy on carbon composite
+the taper. components.
+5. Once the nock is on the taper, rotate the nock several
+times counterclockwise to evenly spread the cement. Removing Carbon UNI Bushings
+Then, immediately rotate the nock clockwise (using a
+1. To remove the bushing, select an Allen wrench that is
+light downward pressure) until the nock groove is
+slightly larger than the hole diameter. Heat the wrench
+properly positioned and the nock is firmly seated on
+over a flame until hot enough to melt into the bushing.
+the taper.
+Push it into the hole in the bushing and let it cool.
+6. Carefully wipe excess cement from the nock base. 2. Lightly heat the end of the shaft for 3-5 seconds over
+Check the nock for straightness and allow it to set at a small gas flame.
+least two hours before shooting. 3. Grasp the wrench with pliers and rotate to break the
+bushing free.
+4. Repeat steps 2 and 3 until the adhesive bond is
+destroyed by the heat and the insert pulls free. Re-
+member, excess heat will destroy the shaft.
+27
+Installing Nock Systems
+Installing Aluminum UNI Bushings Installing A/C/E (cid:210)G(cid:211) Nocks,
+X10 Nocks, and Super Nocks
+EQUIPMENT AND MATERIALS NEEDED FOR
+INSTALLATION OF UNI OR SUPER UNI BUSHINGS (Directly into Shafts or UNI Bushings)
+¥ 91% isopropyl alcohol ¥ Easton hot-melt
+X10, A/C/E (cid:210)G(cid:211) Nocks, and Super Nocks are
+¥ paper towels ¥ torch or gas burner
+¥ cotton swabs ¥ pencil for (cid:210)holding tool(cid:211) designed to be installed and shot without adhe-
+sive. If you prefer to use an adhesive, use a light
+removable glue such as Carter(cid:213)s¤ rubber cement
+1.Lightly chamfer the inside of the core tube as
+(for gluing paper) or FaberCastell¤ Glue Stick.
+described previously in the cutting instructions.
+Certain adhesives contain solvents that attack the
+2.Clean inside the nock end of the shaft polycarbonate nock material. When this occurs,
+approximately one inch using a cotton swab the nock becomes brittle and can break when
+dipped in 91% alcohol. Repeat the process until a shot. Do not use typical fletching cements which
+fresh cotton swab is free of residue or cutting dust. Let usually contain M.E.K. (Methyl Ethyl Ketone),
+the shaft dry thoroughly before bonding. toluene, acetone, or lacquer thinner. To determine if you
+3. Heat a stick of Easton(cid:213)s hot-melt adhesive over a small are using a compatible adhesive, use the compatibility
+gas flame; apply a ring of adhesive inside of the shaft. test described at the end of the Nock Installation section.
+4. Twist the bushing onto the end of a sharpened wooden Installing without Glue
+pencil (see illustration below).
+1.Push the nock into the shaft by hand or
+5. Using the pencil as a UNI Bushing (cid:210)holding tool,(cid:211) with a nock tool.
+heat the bushing just enough to apply a thin coating of
+2.Rotate the nock while inserting it into the
+hot-melt adhesive on the shank.
+shaft.
+CAUTION: If the wood pencil chars, the bushing is
+NOTE: Do not attempt to rotate the nock
+overheated. Super Nock by inserting a coin or other instrument
+Tool
+6. Lightly reheat the bushing to melt the adhesive and between the ears of the nock.
+quickly insert it completely into the shaft. NOTE: A tighter fit is used with Super Nocks because of
+their use as a hunting nock. As a result, a nock
+7. Quickly wipe off excess adhesive, then remove the
+installation tool is necessary when installing Super
+pencil after the adhesive has solidified.
+Nocks. See your dealer for Easton’s Super Nock Tool.
+CAUTION: Do not apply a flame directly to any
+Installing A/C/E and Super Nocks with
+Carbon or Aluminum Carbon shaft.
+Rubber Cement
+1. Put a thin coat of Carter(cid:213)s rubber cement or
+Apply ring of adhesive to FaberCastell glue stick on the shank of the nock.
+inside of shaft.
+2. Slowly insert the nock into the UNI or Super UNI
+Bushing while rotating the nock.
+3. Immediately remove the nock and let it air dry for 5-
+Twist bushing onto pencil.
+Heat bushing and apply glue. 10 seconds.
+4. Reinsert the nock into the bushing.
+Reheat bushing and push into arrow shaft. 5. Rotate to get proper nock alignment if shafts are
+fletched.
+Alternate Procedure Using
+Cyanoacrylate Adhesive
+1. Slip the nock into the shaft until there is approxi-
+mately 3(cid:218) " (5˚mm) remaining before the nock is fully
+16
+Instant-Set Glue Method
+seated.
+Some brands of quick setting glues are made to remain 2. Place a very thin layer of instant adhesive around the
+flexible after curing. These glues can be used to bond exposed area. (Do not cover entire shank as it will
+UNI Bushing to shafts. Bohning Instant Super Fletch make removal difficult.) Properly align the nock with
+Tight II“ and AAE Fastset Gel“ are two such glues. the fletching before fully seating the nock.
+CAUTION: This adhesive bonds very quickly.
+To glue, spread a thin film of glue on the bushing. Start
+the bushing into the end of the shaft, then quickly push 3. Push the nock straight in, without turning, until seated.
+the end of the shaft against a wooden bench or block of
+4. Hold for five seconds or until the adhesive sets.
+wood. The insert must be pushed into the shaft quickly
+with a single stroke, before the glue can set up.
+28
+Arrow Tuning and Maintenance Guide
+Alternate Procedure Using Thin Plastic Screw or Cup Hook Method
+Film If a Multi Nock Tool is not available, use this method to
+remove a nock that has broken off flush with the bushing.
+Another method for installing A/C/E and Super Nocks
+into UNI and Super UNI Bushings is to use a very thin 1. Twist a small screw or a cup holder into the hollow
+plastic film such as plastic food shopping bags, dry core of the nock shank.
+cleaning bags, etc. The film provides an effective method 2. Pull the screw out with pliers to remove the nock
+for securing the nock in the shaft and also allows easy shank.
+removal.
+Allen Wrench Method
+1. Place a small piece (3(cid:218)" circle) of the plastic film over
+4 A/C/E nocks made prior to 1995 did not have a hollow
+the end of the nock to be inserted into the bushing.
+core in the shank. To remove a pre-1995 A/C/E nock
+2. Gently push the nock to get it started into the bushing. that has broken off flush with the bushing, use the
+3. Push and twist the nock until it is fully seated against following method.
+the bushing. 1. Grip a small Allen wrench with pliers and heat it until
+4. Remove any excess plastic film from around the nock it is hot enough to melt into the shank of the nock.
+with thumb and finger nail. 2. Push the heated Allen wrench into the broken nock
+shank.
+If the shank of the nock punches through the plastic 3. After the nock shank cools and solidifies on the Allen
+rather than stretching it into the gap between the nock wrench, twist the Allen wrench with pliers to break
+shank and shaft, try a thinner plastic or put a slight nock shank loose, then pull out.
+chamfer on the end of the nock shank.
+BEMAN OVERNOCKS
+(External Nocks)
+Some Beman carbon shafts require nock systems that fit
+A/C/E Nock A/C/E Nock
+over the outside of the shaft. Beman provides two ways
+with 45(cid:176) chamfer
+to accomplish this: The Beman Overnock, which fits
+over the end of the shaft, and the Nock Outsert, which is
+an adapter that fits over the end of the shaft and allows an
+Easton A/C/E (cid:210)G(cid:211) nock to be used.
+To chamfer the end of the shank, simply hold the nock at Installing Beman Overnocks
+the top and pull the nock shank at a 45(cid:176) angle across a flat
+sheet of sandpaper, or along a fine file, while rotating the Overnocks can be installed either without
+nock. This procedure will allow the nock to (cid:210)grip(cid:211) the adhesive or with Carter(cid:213)s¤ rubber cement or
+plastic rather than punching a hole through it. FaberCastell¤ glue stick. Do not use typical
+fletching cements which usually contain solvents
+Removing Broken incompatible with polycarbonate nocks. To be
+sure you are using a compatible adhesive, select
+A/C/E Nocks & Super Nocks
+adhesives that are recommended for A/C/E or
+Super Nocks or that have passed the compatibility
+Pliers
+test described on page 30.
+Gripping the nock with a pair of pliers, twist and
+1. If desired, apply a thin layer of compatible adhesive
+pull until the adhesive bond, if any, has loosened
+to the last 1(cid:218)" of the nock end of the shaft.
+2
+and the nock pulls free.
+2. Slowly push the nock on the shaft while rotating one
+Multi Nock Tool full turn.
+3. Check the nock for straightness by rolling on the
+If the nock is broken off flush with the bushing or
+wheels of an arrow straightener or on a clean, flat
+shaft end, use Easton(cid:213)s Multi-Nock Tool with
+surface. If the nock is not straight, rotate the nock and
+Extractor. To remove, thread the tool down
+check it. Repeat this process until the nock is straight.
+through the broken nock into the hollow core of
+the nock shank as shown in the illustration, and Removing Overnocks
+pull the nock out.
+1. Lightly grip the body of the nock with pliers and twist
+off.
+Multi-Nock 2. If pliers don(cid:213)t work, cut the nock off with a dull knife,
+Tool being careful not to cut into the shaft surface.
+3. Clean off any nock or adhesive residue with a dull
+knife. Do not cut into the carbon material. Wipe shaft
+well with 91% isopropyl alcohol before rebonding
+another nock.
+Installing Nock Systems 29
+Installing Nock Outserts Removing Broken A/C/E Nocks
+See methods described on previous page.
+EQUIPMENT AND MATERIALS NEEDED FOR
+INSTALLATION OF NOCK OUTSERTS
+¥ 180 or 240 grit sandpaper ¥ flexible, two-part epoxy Adhesives for Nocks, Nock
+¥ 91% isopropyl alcohol or cyanoacrylate adhesive
+¥ paper towels ¥ toothpicks or wooden Outserts, and UNI or Super
+¥ cotton swabs match sticks
+UNI Bushings
+Follow the instructions for installing Standard
+Adapters on page 25, however, only sand the The following chart lists the components that make up the
+shaft 1(cid:218) " from the nock end. Cyanoacrylate adhe- nock systems, and suggests glues that may be used for each.
+2
+sives such as Bohning¤ Instant Super Fletch-Tite, The installation procedures for each of the components are
+AAE Fastset¤, Loctite¤ 454 (or Super Glue¤) can covered in the accompanying text.
+also be used to install Nock Outserts. These
+adhesives bond very quickly and only a small
+amount of adhesive is required. ADHESIVES FOR NOCK SYSTEM COMPONENTS
+COMPONENT ADHESIVE FOR INSTALLATION
+Removing Nock Outserts
+UNI Bushing or Aluminum Shafts(cid:209)Easton Hot Melt
+Super UNI Bushing A/C* Shafts(cid:209)Easton Hot Melt, 24-hour
+If installed with the recommended epoxy, these outserts
+Epoxy, or flexible cyanoacrylates
+are permanent and cannot be removed without damage
+to the shaft. Carbon UNI Bushing Use 24-hour flexible epoxy or flexible
+or Carbon Insert cyanoacrylates (Bohning or AAE)
+Installing G-Nocks in Nock Can be installed without adhesive,
+A/C/E Nock, or with Carter(cid:213)s rubber cement,
+Outserts Super Nock, or FaberCastell Glue Stick, flexible
+3-D Super Nock cyanoacrylate adhesive (Bohning
+G-Nocks (A/C/E (cid:210)G(cid:211) Nocks) have a precision, or AAE), or Thin plastic film
+snug fit in the outsert and a uniform fit on the
+string. For Target or Field shooting, they can be Conventional Nock: Saunders NPV¤, Fletch-Tite¤
+Flex Bond¤
+shot without adhesive or with a low-strength adhe-
+sive that will ensure that the nocks do not rotate. If Can be installed without adhesive, or with
+Overnock Carter(cid:213)s¤ rubber cement, FaberCastell Glue
+you prefer to use an adhesive, you should use a
+Stick, or similar glues.
+light removable adhesive like Carter(cid:213)s¤ rubber
+cement (for gluing paper) or FaberCastell¤ Glue Stick (or Nock Outsert Use 24-hour flexible epoxy or cyanoacrylate
+Standard Adapter
+an adhesive that contains Naphtha and/or Hexane).
+* (cid:210)A/C(cid:211) Shaft refers to all models of aluminum/carbon shafts.
+CAUTION: Do not use typical fletching cements that
+Current models are X10, A/C/E, A/C/C, and HyperSpeed.
+usually contain M.E.K. (Methyl Ethyl Ketone), toluene,
+acetone, or lacquer thinner on A/C/E Nocks, Overnocks
+Checking Conventional Nock
+or Nock Outserts. Certain adhesives contain solvents
+that attack polycarbonate nocks. When this occurs, nocks Straightness
+become brittle and can break when shot. To be sure you
+are using a compatible glue, use the adhesive compatibility
+Align with
+test on page 30.
+axis of shaft
+1. Rest the shaft on the nails of your thumb and index
+finger (with the point against the palm of your other
+hand) and blow against the fletching. As the arrow
+Beman Shaft Nock Outsert G-Nock spins, observe the nock rotation. A straight nock will
+spin without any wobble.
+2. Roll the shaft on an arrow shaft straightener or a flat,
+Procedure smooth surface and watch for any nock wobble.
+3. Use commercially available nock checking tools such
+1. Apply a thin coat of the Carter(cid:213)s¤ rubber cement or
+FaberCastell¤ glue stick or other compatible adhesive as the Bj(cid:154)rn Bengtson nock alignment jig.
+on the shank of the nock.
+If the nock is crooked, before the cement sets twist and
+2. Slowly insert the nock into the outsert while rotating
+press the nock on the taper and check again. If it is still
+the nock.
+crooked, remove the nock, clean the taper and install
+3. Rotate to get proper nock alignment. another nock.
+30
+Arrow Tuning and Maintenance Guide
+Shooting Precautions
+ADDITIONAL
+(All Types of Carbon Arrows)
+INFORMATION
+WARNING: Check all carbon shafts for cracks or other
+damage before shooting. Although Beman shafts are the
+most durable and strongest carbon shafts produced, they
+Adhesive Compatibility Test
+are not made with a reinforcing aluminum core (like X10,
+A/C/E and A/C/C shafts). As a result, any carbon shaft
+Here is a simple test to determine if the nock adhesive
+is more susceptible to cracking or breaking if the arrow
+you wish to use is compatible with the various nock
+hits a hard object or is hit by another arrow. All styles of
+materials.
+carbon shafts should be checked for cracking after each
+1. Choose a nock as a test sample.
+shot.
+2. Apply a small amount of the adhesive you intend to
+use on the nock shank and spread the adhesive evenly Procedure
+around the shank. Grip the shaft with one hand near the point and the other
+3. Let the nock set for approximately ten minutes. near the fletching. Rotate the arrow while bending it
+4. Grip the nock with a pair of pliers at the top portion between the hands. If it feels flexible (rubbery), makes a
+of the nock (the part that fits outside the arrow). See creaking sound, or rotates strangely, do not shoot the
+the illustration below. arrow again.
+5. Press the nock shank against a flat table surface and try
+to bend the nock shank to a 45(cid:176) angle. Any carbon arrow that has cracked and is more flexible
+6. If the nock shank will bend without breaking, as when twisted than a new arrow, could fracture upon
+shown in the illustration below, then the adhesive is release of the string (especially when shot from a high-
+compatible with the nock. If the nock shank breaks, energy compound bow) and seriously injure the shooter.
+do not use the adhesive. Hunting Precautions
+There is always a possibility that an arrow shaft used in
+1. Spread adhesive to be tested on shank of nock: bowhunting will break after being shot into a big-game
+2. Wait 10 minutes. Then Grip the nock with pliers. animal. If a carbon arrow breaks, it tends to shatter and
+produce many sharp, splinter-like carbon fragments.
+These fragments could be harmful if ingested, so when
+game is recovered, the hunter should always carefully
+determine whether the arrow has broken inside the
+animal. If the arrow has broken, follow the instructions
+below:
+3. Press the nock against a flat
+surface. Try to bend the nock 1. Use extreme caution when removing broken seg-
+at a 45(cid:176) angle. If the nock ments of the carbon arrow shaft.
+shank breaks, do not use the 2. When field dressing game animals, use care to avoid
+adhesive.
+splinters of carbon fiber.
+3. Carefully remove the flesh in the area of the wounds.
+Securing Screw-in Points It may contain carbon fibers, particularly at the entry
+and exit points.
+Due to the impact of the arrow, points may get loose 4. Thoroughly clean the surrounding area of the wound
+during shooting. Grip the point with pliers and grip the and inspect for carbon fragments.
+shaft with a rubber shaft gripper to tighten the point. An 5. Carefully dispose of any meat that might contain
+alternate method is to screw in the points with a small dab carbon splinters.
+of Easton hot melt adhesive.
+MORE GREAT TECHNICAL STUFF FROM EASTON
+SLOW MOTION VIDEO(cid:209)Watch arrows fly in super slow motion. Shot at an incredible 7,000 frames per second,
+you can see the answers to all your questions about arrow rests, fingers vs. mechanical release, vanes vs. feathers, etc.
+COMPUTER PROGRAMS(cid:209)Easton(cid:213)s Shaft Selector (cid:210)Plus(cid:211) lets you go through Easton(cid:213)s Selection Charts at electronic
+speed. Easton(cid:213)s Arrow Flight Simulator lets you try new setups with computer simulations. Over 99% accurate! You can
+find your bow(cid:213)s best arrow match, find the fastest setup to meet each set of tournament rules, or try out a new set of
+arrow shafts to use with your favorite broadheads. All without going to the range!
+ARCHER(cid:213)S ALMANAC(cid:209)The most complete archery reference manual available. Everything from how-to and
+where-to information from the nation(cid:213)s top archers to in-depth detail about equipment specifications, graphics that
+reveal your own arrow trajectory, charts that show changes in velocity as bow weight changes, and lots more!
+For more information call or write Easton. The address and phone number are on the back page of this manual.
+31
+Additional Information
+Minimum Recommended Arrow damage to and/or breakage of bows and therefore help
+prevent injury to archers.
+Weight
+Bows with machined risers have become popular since
+At the request of the bow manufacturers, AMO devel- this testing was performed. Due to their added strength,
+oped the Minimum Recommended Arrow Weight chart they may be able to shoot lighter arrows. How much
+because breakage of high-energy bows has resulted from lighter, if any, has not yet been determined.
+using arrows that are too light. The recommended mini-
+Using the Minimum Recommended Arrow
+mum arrow weights were determined from tests per-
+Weight chart
+formed on various brands of bows with cast metal risers.
+After determining the safe amount of energy left in the ¥ Select the column that describes the type of bow you
+bow (23-28 ft./lbs.) when a 360-grain arrow is shot from shoot.
+a 60# speed cam compound bow at a 30" AMO Draw ¥ Move down that column to locate the bow weight
+Length, the arrow weights for all other draw lengths and range that includes your Peak Bow Weight.
+bow weights were calculated using this safe (cid:210)retained ¥ Move horizontally across that row to your (cid:210)AMO
+energy(cid:211) figure. Using arrow weights equal to or heavier Draw Length(cid:211) column.
+than those recommended will reduce the possibility of ¥ The box at that location contains the minimum total
+arrow weight1 recommended for your equipment.
+AMO MINIMUM RECOMMENDED
+ARROW WEIGHTS1 (GRAINS)
+S.E.*=.95 S.E.*=1.04 S.E.*=1.20 S.E.*=1.3+
+P.D.F. P.D.F. P.D.F. P.D.F.
+E.S.E. 62 E.S.E. 65.6 E.S.E. 71.3 E.S.E. 75.1
+B.H. 9.5 B.H. 9.0 B.H. 8.0 B.H. 7.0
+1 Arrow weight includes all arrow components(cid:209)shaft, insert, point, fletching and nock.
+* Based on: ¥ 360 Grain Arrow ¥ 30" Draw Length ¥ 60# Peak Weight ¥ Speed Cam
+S.E. = Stored Energy, P.D.F. = Peak Draw Force,
+E.S.E. = Energy Storage Efficiency, B.H. = Brace Height,
+**Draw Length
+NOTE: AMO Draw Length is not necessarily the same
+as your Correct Arrow Length. AMO Draw Length
+equals the distance from the bottom of the nock groove
+to the pivot point of the grip + 13(cid:218) " while at full draw 4
+position. This distance is approximately the distance
+from the bottom of the nock groove to the far side of the
+bow. Correct Arrow Length is measured from the nock
+groove to the end of the shaft. If you draw the end of the
+arrow flush with the far side of your bow, arrow length
+and draw length are approximately the same. If the end
+EVRUCER
+DNUOR LEEHW
+YGRENE
+LEEHW
+)maC
+tfoS(
+DEEPS
+MAC
+)maC
+draH(
+IMPORTANT: The lengths shown in the chart below are (cid:210)Draw Lengths,(cid:211) not arrow lengths.
+ACTUAL PEAK BOW WEIGHT (LBS.)
+AMO Draw
+Length = A + 13/4"
+13/4" Pivot point to bottom of nock groove = A
+AMO DRAW LENGTH **
+25" 26" 27" 28" 29" 30" 31" 32" 33"
+33 32 29 27 150 150 150 150 150 150 150 150 150
+34-41 33-38 30-35 28-32 150 150 150 150 150 150 150 151 165
+42-46 39-43 36-39 33-36 150 150 150 150 150 163 179 195 211
+47-52 44-49 40-44 37-41 150 150 150 167 185 203 222 240 258
+53-58 50-54 45-49 42-46 150 163 183 203 224 244 264 285 305
+59-63 55-60 50-54 47-50 172 195 217 240 262 284 307 329 352
+64-69 61-64 55-59 51-55 202 227 251 276 300 325 350 374 399
+70-75 65-71 60-64 56-60 232 259 286 312 339 365 392 419 445
+76-81 72-76 65-70 61-65 262 291 320 348 377 406 435 463 492
+82-86 77-81 71-74 66-69 292 323 354 385 416 446 477 508 539
+87-92 82-87 75-79 70-74 322 355 388 421 454 487 520 553 586
+93-99 88-94 80-85 75-80 352 387 422 457 492 532 581 629 676
+of your arrow is in front of the far side of your bow, or if
+you pull the end of your arrow inside the far side of your
+bow or use an overdraw, Draw Length and Correct
+Arrow Length will not be the same. You must use AMO
+Draw Length when using the AMO Minimum Recom-
+mended Arrow Weight chart above as this AMO Draw
+length determines the energy your bow has stored at full
+draw. Use Correct Arrow Length when using the Easton
+Shaft Size Selection charts.
+32
+Arrow Tuning and Maintenance Guide
+F.O.C. (Front of Center) portion of the arrow. Replacing vanes with feathers
+lightens the rear of the arrow. Various points, inserts, and
+The term F.O.C. (Front of Center) describes the even added weights are used to modify the weight of the
+percentage of the arrow(cid:213)s total weight that is located in front of the arrow.
+the front half of the arrow. The more weight that is
+Even though there is no established perfect F.O.C. for
+located in the front half of the arrow, the more forward
+each setup, there are some general recommendations
+is the center of balance of the arrow. Why is this important?
+that provide a good starting point when either constructing
+It is generally believed that the F.O.C. balance position
+a set of arrows or when analyzing an arrow(cid:213)s flight
+of the arrow is one of the more important elements
+characteristics.
+affecting the shape of the arrow(cid:213)s trajectory curve.
+F.O.C. Recommendations
+Unfortunately there are too many variables affecting the
+path of an arrow to make it possible to precalculate the Aluminum Target Arrows 7-9 %
+trajectory of an arrow simply by controlling its F.O.C.. A/C/C Target Arrows 9-11 %
+Some archers, though, find it valuable to determine and
+A/C/E Target Arrows 11-16 %
+record the F.O.C. of their arrows once they have achieved
+the flight characteristics they desire. Hunting Arrows 10-15 %
+The importance of F.O.C. is greatest in archery events Use the following formula to calculate the exact F.O.C.
+that emphasize long range shooting. FITA archery of an arrow.
+(Olympic Style) which requires archers to shoot up to 90
+meters is the best example of this.
+Determining F.O.C.%
+In short range events, such as indoor archery, the effect
+of F.O.C. is not significant. Other factors affecting arrow
+flight are more important to these archers. AMO-Standard F.O.C. balance formula
+Changes in the trajectory of an arrow, for whatever F.O.C. % = 100 x (A-L/2)
+L
+reason, are quite apparent in archery events or bowhunting
+L = Correct Arrow Length(cid:209)Distance from bottom of nock
+conditions that call for shots to be made at both short and
+groove to end of shaft
+long ranges. Bows for these situations usually include the A = Distance from bottom of nock groove to finished arrow
+use of multiple sight pins or multiple premarked sight balance position (includes weight of point
+[+ insert], nock system and fletching)
+settings. Since changing the F.O.C. of an arrow may
+change the shape of its trajectory, it may also change the
+L = Correct Arrow Length
+preset sight locations on the bow sight. Center of
+Correct Arrow Length
+F.O.C. 1/2 Length = L/2
+F.O.C. Guidelines Distance
+The balance of an arrow can be modified by adding
+weight to either the front or the rear of the shaft. Heavier Front-of-Center balance position
+of the finished arrow
+vanes, for example, increase the weight of the rear
+A
+5040 W. HAROLD GATTY DR. SALT LAKE CITY, UT
+84116-2897 U.S.A. (801) 539-1400 FAX (801) 533-9907
+Rev. 4, 4/99
+Printed on Recycled Paper
