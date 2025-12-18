@@ -63,6 +63,8 @@ POST_RELEASE_BOW_TORSO_MAX_DELTA_DEG = 5.0
 POST_RELEASE_DRAW_FILENAME = "post_release_draw.md"
 POST_RELEASE_BOW_FILENAME = "post_release_bow.md"
 POST_RELEASE_COMBINED_FILENAME = "post_release.md"
+POST_RELEASE_DRAW_PROMPT = ROOT / "config" / "prompts" / "follow_through_draw_hand.md"
+POST_RELEASE_BOW_PROMPT = ROOT / "config" / "prompts" / "follow_through_bow_arm.md"
 MIN_DATASET_SAMPLES = 5
 
 
@@ -1473,14 +1475,16 @@ def write_post_release_reports(
         draw_body = "Good release: follow-through hand stays back behind the head."
     else:
         try:
+            prompt = dfl.load_prompt(POST_RELEASE_DRAW_PROMPT)
             question = "\n".join(
                 [
-                    "Follow-through coaching request (draw hand).",
+                    prompt,
+                    "",
                     f"Video ID: {pose_stem}",
-                    f"Nose-to-wrist change: {fmt_pct(draw_change_pct)} (pre {fmt_px(draw_pre)} → post {fmt_px(draw_follow)}).",
+                    f"Nose-to-wrist change: {fmt_pct(draw_change_pct)} (pre {fmt_px(draw_pre)} -> post {fmt_px(draw_follow)}).",
                     f"Release frame: {release_frame}",
                     f"Follow-through frame: {follow_frame}",
-                    "Change was below the 20% extension target; how to better the follow through? Keep it concise (<120 words).",
+                    f"Target: > {POST_RELEASE_DRAW_GOOD_PCT:.1f}%.",
                 ]
             ).strip()
             response = call_rag_assistant(
@@ -1518,12 +1522,14 @@ def write_post_release_reports(
         bow_body = "Good follow-through: bow arm did not collapse after release."
     else:
         try:
+            prompt = dfl.load_prompt(POST_RELEASE_BOW_PROMPT)
             question = "\n".join(
                 [
-                    "Bow-arm follow-through coaching request.",
+                    prompt,
+                    "",
                     f"Video ID: {pose_stem}",
-                    f"Bow arm vs torso: pre {fmt_deg(bow_pre)}, post {fmt_deg(bow_follow)} (Δ {fmt_deg(bow_delta)}).",
-                    "The bow arm collapsed after release; what suggestion do you make? Keep it concise (<120 words).",
+                    f"Bow arm vs torso: pre {fmt_deg(bow_pre)}, post {fmt_deg(bow_follow)} (delta {fmt_deg(bow_delta)}).",
+                    f"Target: < {POST_RELEASE_BOW_TORSO_MAX_DELTA_DEG:.1f} deg.",
                 ]
             ).strip()
             response = call_rag_assistant(

@@ -1,0 +1,1 @@
+The draw-hand follow-through is not executed well. The draw hand did not slide naturally towards the back of the head. In 1-2 sentences, explain what is off and why it matters for release consistency. Then give up to 2 concise, actionable cues or drills to keep the draw hand moving back after release. Keep it under 120 words.
