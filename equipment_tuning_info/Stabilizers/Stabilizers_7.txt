@@ -1,0 +1,56 @@
+
+Step by Step Guide to picking your stabilizer length
+Aside from which stabilizer is right for you  (a question you can get answered right
+here
+), the next common question we get asked is how long your rods should be.
+If your entire stabilizer system is too long, things will feel sluggish or unresponsive. On the other side, a system that is too short is going to feel jittery or unresponsive.
+Step 1: determining the front system length
+We've collected a large amount of data from our team, taking everything into account from draw length, height, draw weight, shooting style, and more.
+First we need to find the front system length. This is going to be the measurement from the front of the riser where your stabilizer or extension mounts to your bow, all the way to end end of your front rod,
+not
+counting weights or dampers.
+For example, if an archer has a 3 inch extension, an adjustable V-Bar, a quick disconnect, and a 27 inch rod, their total system length is about 32 inches.
+3+1.5*+27=31.5 and then we can round it up to 32.
+*On average, a V-Bar and quick disconnect or a V-Bar and an eyebolt are about 1.5 inches
+Another example is an archer with no extension, a fixed V-Bar, an eyebolt, and a 28 inch rod. The total system length is 30 inches.
+0+1.5+28=29.5 and then 30, if we round up.
+the formula
+Now let's apply the numbers to you.
+Your height x 0.48
+Basically, your front system length should be 48% of your height.
+Example: A 72 inch tall archer. 72 x 0.48 = 34.6
+The recommended front system length is going to be around 34.6 inches.
+If you're wondering why we use height rather than draw length, we applied this formula to both and came to the same exact results. Plus most archers know their height more readily than their exact draw length measurement which can change over time.
+step 2: choosing your extension length
+If you like more spin from your bow, pick an extension that is 3 inches or longer. If you want your bow to spin less, choose an extension that is 2 inches or shorter.
+An extension shifts the center of gravity forwards towards the target, so the futher away it is, the more your bow will be inclined to spin during follow through.
+step 3: finding your front rod length
+Now that we have the length of your extension, we can move on to picking the length of your front rod.
+Front system length - extension length - 1.5 (this accounts for the V-Bar and eyebolt or quick disconnect) = long rod length
+For example:
+A 62 inch archer
+62 x 0.48 = 29.76 or about 30 inches
+They like more spin, so they want a 3 inch extension
+30 - 3 - 1.5 = 25.5
+Their recommended length for their front rod is 25.5 inches
+A 68 inch archer
+36 x 0.48 = 32.64 or about 33 inches
+They don't like too much spin, so they only want a 1 inch extension
+33 - 1 - 1.5 = 30.5
+Their recommended length for their front rod is 30.5 inches
+If you can't find the exact length of your front rod, don't worry.
+All you need to do is add or subtract 1 inch from either your extension or your long rod until you come to a number matches up within an inch of the recommendation.
+In our data, we saw the shorter archers tended to use something slightly longer proportional to their height, and taller archer tended to use something slightly shorter in relation to their height. In general, it can come down to personal preference or availability of accessory lengths.
+step 4: picking your side rod lengths
+Once you have the length for your extension and front rod, it's time to move on to the side rods.
+the formula
+Your height x 0.2
+A 62 inch archer would calculate 62 x 0.2 and get 12.4 or a 12 inch side rods.
+A 68 inch archer would get 13.4 from the formula and they could get either 13 or 14 inch side rods.
+If you're a beginning archer, you can stop here. These numbers will give you a great stabilizer system that will give you an awesome shooting experience.
+extra factors
+When it comes to fine tuning your side rods, some other things to be considered include the bow's mass weight, how much bow spin you want, and how fast your shot timing is.
+Why you might go for shorter side rods
+An archer who shoots with light mass weight, a fast and rhythmic shot process or  prefers more spin on their bow during follow through could benefit from shorter side rods. This is because shorter side rods push the bow's center of gravity forwards, towards the target; this promotes spin, but it will also be harder to hold up a lot of mass weight. For example, going from 13.5 inch rods down to 12 inch rods should be a great fit.
+Why you might go for longer side rods
+An archer who uses a lot of mass weight, has a slow or methodical shot process or prefers less spin on their bow during follow through could benefit from longer side rods. The bow's center of gravity is shifted away from the target and towards the archer's hand; this will make it easier to control the bow's high mass weight and reduce spin. This could benefit archer's with a slower shot process because it slows down everything in the shot and overall makes things easier to control. If any of these features apply, moving up in side rod length by an inch could work great for you're shooting style.

@@ -1,0 +1,1 @@
+The bow arm did not remain stable after release. It either collapsed or swung outwards. In 1-2 sentences, explain what is off and why it hurts stability. Then give up to 2 concise, actionable cues or drills to keep the bow arm steady through follow-through. Keep it under 120 words.

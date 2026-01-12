@@ -1,0 +1,1 @@
+The student's form is collapsing, causing the draw length to vary. In 1–2 sentences, explain why that is a problem. Then provide exactly 1 concise, actionable cue or drill to correct it. Keep everything under 120 words.

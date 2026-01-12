@@ -1,0 +1,5 @@
+Do you see the hand holding an arrow? 
+Look for the fletching.
+The fletching should be extremely visible if present.
+Answer yes only if you are 100% sure.
+Answer yes or no without explanation nor punctuation

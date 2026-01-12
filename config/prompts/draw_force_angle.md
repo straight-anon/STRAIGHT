@@ -1,0 +1,1 @@
+The draw-force line angle (arrow → draw wrist → elbow) deviated a lot from the student's average. In 1–2 sentences, state what is off and why it matters for consistency. Then, for two sentenecs each, give up to 2 concise cues or drills to fix it. Keep the guidance under 120 words and make it specific and actionable.

@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>STRAIGHT v1.0 - Installation Guide</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+        code, pre {
+            font-family: 'JetBrains Mono', monospace;
+        }
+        .section-anchor {
+            scroll-margin-top: 5rem;
+        }
+    </style>
+</head>
+<body class="bg-white text-slate-900 leading-relaxed antialiased">
+    <!-- Navigation Header -->
+    <nav class="sticky top-0 z-10 bg-white/90 backdrop-blur-md border-b border-slate-100">
+        <div class="max-w-3xl mx-auto px-6 py-4 flex justify-between items-center">
+            <div class="flex items-center gap-4">
+                <a href="index.html" class="text-xs font-semibold px-3 py-1.5 border border-slate-200 rounded-md text-slate-500 hover:bg-slate-50 hover:text-slate-900 transition-all flex items-center gap-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg>
+                    Back
+                </a>
+                <div class="font-bold text-slate-900 tracking-tight hidden sm:block">STRAIGHT v1.0</div>
+            </div>
+            <div class="text-xs font-semibold text-slate-400 uppercase tracking-widest">Research Documentation</div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="max-w-3xl mx-auto px-6 pt-16 pb-24">
+        <!-- Page Header -->
+        <header class="mb-16">
+            <h1 class="text-4xl md:text-5xl font-extrabold text-slate-900 tracking-tight mb-4">
+                Installation and Setup Guide
+            </h1>
+            <p class="text-xl text-slate-500 font-medium">
+                v2.0 is coming, stay tuned!
+            </p>
+        </header>
+
+        <!-- System Overview -->
+        <section class="py-10 border-t border-slate-100 section-anchor">
+            <h2 class="text-2xl font-bold text-slate-900 mb-6 flex items-baseline gap-3">
+                System Overview
+            </h2>
+            <div class="space-y-4 text-slate-700">
+                <p>
+                    STRAIGHT v1.0 follows a hybrid deployment architecture. A remote GPU-enabled virtual machine 
+                    is dedicated to executing OpenMMLab-based pose inference. The local client machine hosts 
+                    both the web interface and the FastAPI-based API server, which orchestrates the workflow 
+                    and communicates with the inference backend over SSH.
+                </p>
+                <p>
+                    In our reference setup, the local client is a MacBook Air M2 (running the API server and frontend), 
+                    and the remote inference server is an NVIDIA GeForce RTX 3060 GPU rented via Vast.ai. 
+                    Other CUDA-compatible NVIDIA GPUs are supported with appropriate configuration changes.
+                </p>
+            </div>
+        </section>
+
+        <!-- Section 1: Remote GPU VM Setup -->
+        <section id="section-1" class="py-10 border-t border-slate-100 section-anchor">
+            <h2 class="text-2xl font-bold text-slate-900 mb-6 flex items-baseline gap-3">
+                <span class="text-indigo-600 font-mono text-xl">1.</span> Remote GPU VM Setup
+            </h2>
+            <p class="italic text-sm text-slate-500 mb-8">
+                All steps in this section are executed on the remote Linux VM to prepare the inference environment.
+            </p>
+            
+            <div class="space-y-12">
+                <!-- 1.1 -->
+                <div>
+                    <h3 class="text-lg font-semibold text-slate-900 mb-3 flex items-baseline gap-2">
+                        <span class="text-indigo-500/70 font-mono text-sm">1.1</span> Miniconda Installation
+                    </h3>
+                    <p class="text-slate-600 mb-4">Install Miniconda to manage Python environments:</p>
+                    <div class="code-container relative group">
+                        <div class="absolute right-2 top-2 z-10 opacity-0 group-hover:opacity-100 transition-opacity">
+                            <button onclick="copyToClipboard(this)" class="px-2 py-1 bg-white border border-slate-200 rounded text-xs text-slate-500 hover:text-indigo-600 shadow-sm">Copy</button>
+                        </div>
+                        <pre class="p-5 bg-slate-50 border border-slate-200 rounded-lg overflow-x-auto"><code class="text-sm text-slate-800 leading-6">wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+bash Miniconda3-latest-Linux-x86_64.sh -b -p $HOME/miniconda3
+source ~/miniconda3/etc/profile.d/conda.sh</code></pre>
+                    </div>
+                    
+                    <p class="text-slate-600 my-4">Accept the Anaconda terms of service:</p>
+                    <div class="code-container relative group">
+                        <div class="absolute right-2 top-2 z-10 opacity-0 group-hover:opacity-100 transition-opacity">
+                            <button onclick="copyToClipboard(this)" class="px-2 py-1 bg-white border border-slate-200 rounded text-xs text-slate-500 hover:text-indigo-600 shadow-sm">Copy</button>
+                        </div>
+                        <pre class="p-5 bg-slate-50 border border-slate-200 rounded-lg overflow-x-auto"><code class="text-sm text-slate-800 leading-6">conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/main
+conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/r</code></pre>
+                    </div>
+
+                    <p class="text-slate-600 my-4">Create and activate a dedicated OpenMMLab environment:</p>
+                    <div class="code-container relative group">
+                        <div class="absolute right-2 top-2 z-10 opacity-0 group-hover:opacity-100 transition-opacity">
+                            <button onclick="copyToClipboard(this)" class="px-2 py-1 bg-white border border-slate-200 rounded text-xs text-slate-500 hover:text-indigo-600 shadow-sm">Copy</button>
+                        </div>
+                        <pre class="p-5 bg-slate-50 border border-slate-200 rounded-lg overflow-x-auto"><code class="text-sm text-slate-800 leading-6">conda create -n openmmlab python=3.8 -y
+conda activate openmmlab</code></pre>
+                    </div>
+                </div>
+
+                <!-- 1.2 -->
+                <div>
+                    <h3 class="text-lg font-semibold text-slate-900 mb-3 flex items-baseline gap-2">
+                        <span class="text-indigo-500/70 font-mono text-sm">1.2</span> PyTorch and CUDA Installation
+                    </h3>
+                    <p class="text-slate-600 mb-4">
+                        Install PyTorch with CUDA support. The CUDA version should match the GPU driver on the VM. 
+                        The following command targets CUDA 12.1:
+                    </p>
+                    <div class="code-container relative group">
+                        <div class="absolute right-2 top-2 z-10 opacity-0 group-hover:opacity-100 transition-opacity">
+                            <button onclick="copyToClipboard(this)" class="px-2 py-1 bg-white border border-slate-200 rounded text-xs text-slate-500 hover:text-indigo-600 shadow-sm">Copy</button>
+                        </div>
+                        <pre class="p-5 bg-slate-50 border border-slate-200 rounded-lg overflow-x-auto"><code class="text-sm text-slate-800 leading-6">pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121</code></pre>
+                    </div>
+                </div>
+
+                <!-- 1.3 -->
+                <div>
+                    <h3 class="text-lg font-semibold text-slate-900 mb-3 flex items-baseline gap-2">
+                        <span class="text-indigo-500/70 font-mono text-sm">1.3</span> OpenMMLab Stack Installation
+                    </h3>
+                    <p class="text-slate-600 mb-4">Install the OpenMMLab core libraries required for detection and pose estimation:</p>
+                    <div class="code-container relative group">
+                        <div class="absolute right-2 top-2 z-10 opacity-0 group-hover:opacity-100 transition-opacity">
+                            <button onclick="copyToClipboard(this)" class="px-2 py-1 bg-white border border-slate-200 rounded text-xs text-slate-500 hover:text-indigo-600 shadow-sm">Copy</button>
+                        </div>
+                        <pre class="p-5 bg-slate-50 border border-slate-200 rounded-lg overflow-x-auto"><code class="text-sm text-slate-800 leading-6">pip install -U openmim
+mim install mmengine
+pip install "mmcv==2.1.0"
+pip install "mmdet==3.2.0"
+pip install "mmpose==1.3.2"</code></pre>
+                    </div>
+                    <p class="text-slate-600 my-4">(Optional) Verify successful installation:</p>
+                    <div class="code-container relative group">
+                        <div class="absolute right-2 top-2 z-10 opacity-0 group-hover:opacity-100 transition-opacity">
+                            <button onclick="copyToClipboard(this)" class="px-2 py-1 bg-white border border-slate-200 rounded text-xs text-slate-500 hover:text-indigo-600 shadow-sm">Copy</button>
+                        </div>
+                        <pre class="p-5 bg-slate-50 border border-slate-200 rounded-lg overflow-x-auto"><code class="text-sm text-slate-800 leading-6">python -c "import torch; import mmcv, mmdet, mmpose; print(torch.__version__, mmcv.__version__, mmdet.__version__, mmpose.__version__)"</code></pre>
+                    </div>
+                </div>
+
+                <!-- 1.4 -->
+                <div>
+                    <h3 class="text-lg font-semibold text-slate-900 mb-3 flex items-baseline gap-2">
+                        <span class="text-indigo-500/70 font-mono text-sm">1.4</span> MMPose Repository and Weights
+                    </h3>
+                    <p class="text-slate-600 mb-4">Clone the MMPose repository:</p>
+                    <div class="code-container relative group">
+                        <div class="absolute right-2 top-2 z-10 opacity-0 group-hover:opacity-100 transition-opacity">
+                            <button onclick="copyToClipboard(this)" class="px-2 py-1 bg-white border border-slate-200 rounded text-xs text-slate-500 hover:text-indigo-600 shadow-sm">Copy</button>
+                        </div>
+                        <pre class="p-5 bg-slate-50 border border-slate-200 rounded-lg overflow-x-auto"><code class="text-sm text-slate-800 leading-6">git clone https://github.com/open-mmlab/mmpose.git
+cd mmpose</code></pre>
+                    </div>
+                    <p class="text-slate-600 my-4">Download pretrained weights:</p>
+                    <div class="code-container relative group">
+                        <div class="absolute right-2 top-2 z-10 opacity-0 group-hover:opacity-100 transition-opacity">
+                            <button onclick="copyToClipboard(this)" class="px-2 py-1 bg-white border border-slate-200 rounded text-xs text-slate-500 hover:text-indigo-600 shadow-sm">Copy</button>
+                        </div>
+                        <pre class="p-5 bg-slate-50 border border-slate-200 rounded-lg overflow-x-auto"><code class="text-sm text-slate-800 leading-6">wget https://download.openmmlab.com/mmpose/v1/projects/rtmpose/rtmdet_m_8xb32-100e_coco-obj365-person-235e8209.pth
+
+wget https://download.openmmlab.com/mmpose/v1/projects/rtmposev1/rtmpose-m_simcc-body7_pt-body7_420e-256x192-e48f03d0_20230504.pth</code></pre>
+                    </div>
+                    <p class="text-slate-600 mt-4">
+                        These models are used for robust single-person detection and full-body pose inference 
+                        in unconstrained practice footage.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 2: Secure Remote Access -->
+        <section id="section-2" class="py-10 border-t border-slate-100 section-anchor">
+            <h2 class="text-2xl font-bold text-slate-900 mb-6 flex items-baseline gap-3">
+                <span class="text-indigo-600 font-mono text-xl">2.</span> Secure Remote Access
+            </h2>
+            <div class="space-y-4 text-slate-700">
+                <p>
+                    To enable seamless interaction between the local client (API server) and the GPU VM, 
+                    configure SSH key-based authentication.
+                </p>
+                <p>
+                    Follow the Vast.ai SSH setup guide:
+                    <a href="https://docs.vast.ai/documentation/instances/connect/ssh" target="_blank" rel="noopener noreferrer" class="ml-1 text-indigo-600 font-medium underline underline-offset-4 hover:text-indigo-800">Vast.ai SSH Setup</a>
+                </p>
+                <p>Ensure that the private key is available locally at:</p>
+                <div class="code-container relative group">
+                    <div class="absolute right-2 top-2 z-10 opacity-0 group-hover:opacity-100 transition-opacity">
+                        <button onclick="copyToClipboard(this)" class="px-2 py-1 bg-white border border-slate-200 rounded text-xs text-slate-500 hover:text-indigo-600 shadow-sm">Copy</button>
+                    </div>
+                    <pre class="p-4 bg-slate-50 border border-slate-200 rounded-lg"><code class="text-sm text-slate-800">~/.ssh/id_ed25519</code></pre>
+                </div>
+                <p>
+                    Once configured, the API server can access the VM without repeated password prompts, 
+                    enabling automated inference and data transfer.
+                </p>
+            </div>
+        </section>
+
+        <!-- Section 3: STRAIGHT Application Setup -->
+        <section id="section-3" class="py-10 border-t border-slate-100 section-anchor">
+            <h2 class="text-2xl font-bold text-slate-900 mb-6 flex items-baseline gap-3">
+                <span class="text-indigo-600 font-mono text-xl">3.</span> STRAIGHT Application Setup
+            </h2>
+            <p class="italic text-sm text-slate-500 mb-8">
+                The following steps are performed on the local machine. The API server and frontend 
+                both run locally, while pose inference is offloaded to the remote GPU VM.
+            </p>
+
+            <div class="space-y-12">
+                <!-- 3.1 -->
+                <div>
+                    <h3 class="text-lg font-semibold text-slate-900 mb-3 flex items-baseline gap-2">
+                        <span class="text-indigo-500/70 font-mono text-sm">3.1</span> Repository Installation
+                    </h3>
+                    <p class="text-slate-600 mb-4">Clone the STRAIGHT repository locally:</p>
+                    <div class="code-container relative group">
+                        <div class="absolute right-2 top-2 z-10 opacity-0 group-hover:opacity-100 transition-opacity">
+                            <button onclick="copyToClipboard(this)" class="px-2 py-1 bg-white border border-slate-200 rounded text-xs text-slate-500 hover:text-indigo-600 shadow-sm">Copy</button>
+                        </div>
+                        <pre class="p-5 bg-slate-50 border border-slate-200 rounded-lg overflow-x-auto"><code class="text-sm text-slate-800 leading-6">git clone https://github.com/straight-anon/STRAIGHT.git
+cd STRAIGHT</code></pre>
+                    </div>
+                </div>
+
+                <!-- 3.2 -->
+                <div>
+                    <h3 class="text-lg font-semibold text-slate-900 mb-3 flex items-baseline gap-2">
+                        <span class="text-indigo-500/70 font-mono text-sm">3.2</span> API Key Configuration
+                    </h3>
+                    <p class="text-slate-600 mb-4">Set the OpenAI API key environment variable locally:</p>
+                    <div class="code-container relative group">
+                        <div class="absolute right-2 top-2 z-10 opacity-0 group-hover:opacity-100 transition-opacity">
+                            <button onclick="copyToClipboard(this)" class="px-2 py-1 bg-white border border-slate-200 rounded text-xs text-slate-500 hover:text-indigo-600 shadow-sm">Copy</button>
+                        </div>
+                        <pre class="p-5 bg-slate-50 border border-slate-200 rounded-lg overflow-x-auto"><code class="text-sm text-slate-800 leading-6">export OPENAI_API_KEY="sk-..."</code></pre>
+                    </div>
+                </div>
+
+                <!-- 3.3 -->
+                <div>
+                    <h3 class="text-lg font-semibold text-slate-900 mb-3 flex items-baseline gap-2">
+                        <span class="text-indigo-500/70 font-mono text-sm">3.3</span> Backend API Server
+                    </h3>
+                    <p class="text-slate-600 mb-4">Start the FastAPI backend locally:</p>
+                    <div class="code-container relative group">
+                        <div class="absolute right-2 top-2 z-10 opacity-0 group-hover:opacity-100 transition-opacity">
+                            <button onclick="copyToClipboard(this)" class="px-2 py-1 bg-white border border-slate-200 rounded text-xs text-slate-500 hover:text-indigo-600 shadow-sm">Copy</button>
+                        </div>
+                        <pre class="p-5 bg-slate-50 border border-slate-200 rounded-lg overflow-x-auto"><code class="text-sm text-slate-800 leading-6">uvicorn api_server:app --reload</code></pre>
+                    </div>
+                    <p class="text-slate-600 mt-4">
+                        This server orchestrates remote pose inference via SSH, computes metrics, and generates feedback.
+                    </p>
+                </div>
+
+                <!-- 3.4 -->
+                <div>
+                    <h3 class="text-lg font-semibold text-slate-900 mb-3 flex items-baseline gap-2">
+                        <span class="text-indigo-500/70 font-mono text-sm">3.4</span> Frontend Build and Deployment
+                    </h3>
+                    <p class="text-slate-600 mb-4">Launch the interface locally:</p>
+                    <div class="code-container relative group">
+                        <div class="absolute right-2 top-2 z-10 opacity-0 group-hover:opacity-100 transition-opacity">
+                            <button onclick="copyToClipboard(this)" class="px-2 py-1 bg-white border border-slate-200 rounded text-xs text-slate-500 hover:text-indigo-600 shadow-sm">Copy</button>
+                        </div>
+                        <pre class="p-5 bg-slate-50 border border-slate-200 rounded-lg overflow-x-auto"><code class="text-sm text-slate-800 leading-6">cd web
+npm run build
+npm run dev</code></pre>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Notes -->
+        <section class="py-12 border-t border-slate-100">
+            <h2 class="text-xl font-bold text-slate-900 mb-6">Versioning and Future Updates</h2>
+            <div class="bg-indigo-50 p-6 border-l-4 border-indigo-200 text-indigo-900/80 rounded-r-lg text-sm leading-6">
+                STRAIGHT v1.0 currently relies on RTMPose within the OpenMMLab ecosystem for 2D pose estimation. We are actively transitioning to ViTPose-based pipelines to improve pose accuracy and temporal stability across frames. In parallel, we are optimizing end-to-end system latency and developing a real-time shot isolation algorithm that automatically segments individual shots from continuous practice footage. To further reduce computational cost, we are also fine-tuning a vision-language model for efficient and reliable release segmentation. Installation instructions will be updated accordingly in future releases.
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="mt-20 pt-8 border-t border-slate-100 text-slate-400 text-xs text-center uppercase tracking-widest">
+            <p>2025 STRAIGHT Project Team &bull; Installation Documentation</p>
+        </footer>
+    </main>
+
+    <script>
+        function copyToClipboard(button) {
+            const container = button.closest('.code-container');
+            const code = container.querySelector('code').innerText;
+            navigator.clipboard.writeText(code).then(() => {
+                const originalText = button.innerText;
+                button.innerText = 'Copied!';
+                button.classList.add('text-green-600');
+                setTimeout(() => {
+                    button.innerText = originalText;
+                    button.classList.remove('text-green-600');
+                }, 2000);
+            });
+        }
+    </script>
+    <!-- Empty module as per platform requirement -->
+    <script type="module" src="index.tsx"></script>
+</body>
+</html>

@@ -1,0 +1,1 @@
+The student's draw to release timing is either too long or too short than their average. State in 1–2 sentences whether the release was early or late and how that impacts consistency. Then give exactly 2 concise, actionable cues or drills to tighten timing. Keep it under 120 words.
